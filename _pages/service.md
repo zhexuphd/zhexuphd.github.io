@@ -4,7 +4,7 @@ permalink: /service/
 title: service
 description: doing my best to keep up with academic service duties.
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 ## Grant, Report & Conference Review
