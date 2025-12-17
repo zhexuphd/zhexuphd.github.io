@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-service",
           title: "service",
-          description: "Doing my best to keep up with academic service duties.",
+          description: "doing my best to keep up with academic service duties.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/service/";
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "teaching is always fun for me.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
