@@ -1,28 +1,17 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
-nav: false
+permalink: /chinese/
+title: 中文
+description: 
+nav: true
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+## 徐喆
+<br>
+德国慕尼黑大学媒体与传播学系 Walter Benjamin 博士后研究员。拥有工程科学与媒体研究的学术背景，并于 2023 年在德国科隆大学获得博士学位，系统接受了传播科学与机器学习方面的学术训练。曾任伦敦政治经济学院（LSE）访问学者。
+
+我的主要研究领域为人道主义与危机传播，重点探讨信息与技术如何介入人道主义危机，以及这一过程如何影响公共决策机制。近年来，研究主要聚焦两个方向：一是运用自然语言处理方法，从传播伦理视角对人道主义新闻语料进行分类与分析；二是考察负责任人工智能与虚拟现实具身性在人道主义危机传播中的应用及其影响。
+
+我的研究曾获得德国研究基金会、德国洪堡基金会以及英国学术院的资助。
+
+联系方式：zhe.xu (at) lmu.de
