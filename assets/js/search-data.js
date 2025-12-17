@@ -50,11 +50,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-successfully-defended-my-phd-dissertation-at-the-university-of-cologne",
-          title: 'Successfully defended my PhD dissertation at the University of Cologne.',
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-awarded-the-walter-benjamin-grant-by-the-german-research-foundation-dfg-221-400",
-          title: 'Awarded the Walter Benjamin Grant by the German Research Foundation (DFG) (€221,400).',
+          section: "News",},{id: "news-successfully-defended-my-phd-dissertation-at-the-university-of-cologne",
+          title: 'Successfully defended my PhD dissertation at the University of Cologne.',
           description: "",
           section: "News",},{id: "news-excited-to-join-the-department-of-media-and-communication-at-lmu-munich-as-a-research-associate",
           title: 'Excited to join the Department of Media and Communication at LMU Munich as...',
