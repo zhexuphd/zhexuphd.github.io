@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /research/
+title: research
 description: peer-reviewed publications and working papers are listed in reverse chronological order.
 nav: true
 nav_order: 2
