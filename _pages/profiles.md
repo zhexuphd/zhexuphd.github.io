@@ -1,9 +1,9 @@
 ---
 layout: profiles
-permalink: /chinese/
-title: 中文
+permalink: /profiles/
+title: profiles
 description: 
-nav: true
+nav: false
 nav_order: 7
 ---
 
