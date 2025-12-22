@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: peer-reviewed publications and working papers are listed in reverse chronological order.
+description: to view all publications, please check [Google Scholar](https://scholar.google.com/citations?user=lxUyedYAAAAJ&hl=zh-CN). Below is a list of selected peer-reviewed publications and working papers, presented in reverse chronological order.
 nav: true
 nav_order: 2
 ---
