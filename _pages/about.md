@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-My name is Zhe Xu, and I am a Walter Benjamin fellow and postdoctoral research associate in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), working under the supervision of [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/). 
+My name is Zhe Xu, and I am a Walter Benjamin fellow and [postdoctoral research associate](https://www.sw.lmu.de/ifkw/en/department/news-activities-history/people-at-the-ifkw/contact-page/zhe-xu-b7d6b0a9.html) in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), working under the supervision of [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/). 
 
 I currently work in **humanitarianism** and **crisis communication** through **computational modeling** and **social computing**, studying how information and technology engage with **humanitarian crises** and how public decision-making is shaped as a result. Two current directions:
 - using natural language processing to analyze news corpora through the lens of communication ethics;
