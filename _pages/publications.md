@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: To view all publications, please see my Google Scholar. Below is a list of selected representative peer-reviewed publications, preprints, and working papers, presented in reverse chronological order.
+description: to view all publications, please see my Google Scholar. below is a list of selected representative peer-reviewed publications, preprints, and working papers, presented in reverse chronological order.
 nav: true
 nav_order: 2
 ---
