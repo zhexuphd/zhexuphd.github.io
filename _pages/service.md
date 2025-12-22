@@ -32,3 +32,9 @@ nav_order: 6
   <li><a href="https://academic.oup.com/gpc">Global Perspectives in Communication</a></li>
   <li><a href="https://journals.sagepub.com/home/nms">New Media & Society</a></li>
 </ul>
+
+## Conference Organization
+
+<ul class="service-list">
+  <li><a href="https://soe.sjtu.edu.cn/En/Show/781">8th International Conference on World-Class Universities (WCU-8), Shanghai Jiao Tong University, Shanghai, China, 15–17 October 2019</a></li>
+</ul>
