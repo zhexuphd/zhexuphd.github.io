@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "to view all publications, please check [Google Scholar](https://scholar.google.com/citations?user=lxUyedYAAAAJ&amp;hl=zh-CN). Below is a list of selected peer-reviewed publications and working papers, presented in reverse chronological order.",
+          description: "to view all publications, please check Google Scholar. Below is a list of selected peer-reviewed publications and working papers, presented in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
