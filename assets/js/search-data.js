@@ -57,7 +57,7 @@ ninja.data = [{
           section: "News",},{id: "news-selected-to-participate-in-the-2026-knowledge-frontiers-symposium-organized-by-the-alexander-von-humboldt-foundation-and-the-british-academy-in-bonn-germany",
           title: 'Selected to participate in the 2026 Knowledge Frontiers Symposium, organized by the Alexander...',
           description: "",
-          section: "News",},{id: "news-so-happy-to-share-that-three-of-my-leading-and-co-authored-papers-have-been-accepted-for-ica-2026-we-ll-be-presenting-some-cool-new-work-on-refugee-displacement-climate-change-and-chinese-podcast-politics-super-excited-for-the-conference-and-can-t-wait-to-see-everyone-in-south-africa",
+          section: "News",},{id: "news-so-happy-to-share-that-three-of-my-leading-and-co-authored-papers-have-been-accepted-for-ica-2026-super-excited-for-the-conference-and-can-t-wait-to-see-everyone-in-south-africa",
           title: 'So happy to share that three of my leading and co-authored papers have...',
           description: "",
           section: "News",},{id: "projects-project-1",
