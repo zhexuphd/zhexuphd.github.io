@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: peer-reviewed publications, preprints, and working papers, presented in reverse chronological order.
+permalink: /research/
+title: research 
+description: selected publications, preprints, and working papers (reverse chronological order). See my Google Scholar profile for a full list. chronological order.
 nav: true
 nav_order: 2
 ---
