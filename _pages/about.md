@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: zhexu2.png
+  image: zhexunew2.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Walter Benjamin Fellow</p>
