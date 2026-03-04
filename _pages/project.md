@@ -4,7 +4,7 @@ permalink: /project/
 title: project
 description: working papers
 nav: true
-nav_order: 8
+nav_order: 3
 ---
 
 ## Natural Language Processing and the Politics of Humanitarian Journalism (NLP-PHJ), DFG-funded, 2024-2026
