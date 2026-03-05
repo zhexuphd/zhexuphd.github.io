@@ -3,7 +3,7 @@ layout: code
 permalink: /code/
 title: code
 description: open-source code and software developed by my team to support computational social science research
-nav: true
+nav: false
 nav_order: 3
 ---
 
