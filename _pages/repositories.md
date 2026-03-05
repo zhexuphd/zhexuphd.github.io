@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /code/
-title: code
+permalink: /repositories/
+title: repositories
 description: open-source code and software developed by my team to support computational social science research
 nav: false
 nav_order: 3
