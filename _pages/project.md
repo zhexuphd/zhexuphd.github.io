@@ -1,13 +1,12 @@
 ---
-layout: page
-permalink: /project/
-title: project
-description: working papers
+layout: code
+permalink: /code/
+title: code
+description: open-source code and software developed by my team to support computational social science research
 nav: false
 nav_order: 3
 ---
 
-## Natural Language Processing and the Politics of Humanitarian Journalism (NLP-PHJ), DFG-funded, 2024-2026
-- Journalistic Roles in Humanitarian News: A Multistage Natural Language Processing Approach (under review, with Martin Scott, Dani Madrid-Morales, Kate Wright, and Shuai Wang).  
-- A Longitudinal Unsupervised Machine Learning Analysis of Refugee Framing in Humanitarian News (nder review, with Yotam Ophir, Ke Du, Gaia Guatri, Dani Madrid-Morales, Kate Wright, and Shuai Wang)
+## bertopic4news (python)
+An optimized version of BERTopic for news discourse, featuring entropy-based filtering—coming soon. 
 
