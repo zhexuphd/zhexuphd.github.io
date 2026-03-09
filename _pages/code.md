@@ -13,5 +13,5 @@ An optimized version of BERTopic for news discourse, incorporating entropy-based
 The code will be released soon on GitHub.
 
 **Contributors**  
-- Zhe Xu — Department of Media and Communication, LMU Munich  
-- Shuai Wang — Department of Statistics, LMU Munich
+- Zhe Xu — Faculty of Social Sciences, LMU Munich  
+- Shuai Wang — Faculty of Mathematics, Computer Science and Statistics, LMU Munich
