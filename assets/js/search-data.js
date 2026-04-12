@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-code",
-          title: "code",
-          description: "open-source code and software developed by my team to support computational social science research",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/code/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "teaching is always fun for me.",
