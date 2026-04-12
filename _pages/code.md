@@ -1,4 +1,4 @@
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/5b3d8f01-53fb-4710-80a3-3495f87f8ff8" />---
+---
 layout: page
 permalink: /code/
 title: code
