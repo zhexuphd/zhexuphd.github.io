@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: bbc.jpg
+  image: 859.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Walter Benjamin Fellow</p>
