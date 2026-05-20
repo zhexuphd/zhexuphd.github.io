@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-pub",
           title: "pub",
-          description: "open-source code and software developed by my team to support computational social science research",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/pub/";
