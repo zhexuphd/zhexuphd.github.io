@@ -14,7 +14,7 @@ Xu, Zhe, and Mengrong Zhang. "[How news media visually dehumanize victims of hum
 Xu, Zhe. "[Book review: Humanitarian Journalists: Covering Crises from a Boundary Zone](
 https://doi.org/10.1177/02673231231211654)." *European Journal of Communication* 38.6 (2023): 637-639.
 
-Xu, Zhe. "[Book Review: Computing the News: Data Journalism and the Search for Objectivity](https://doi.org/10.1177/1464884923120692)." *Journalism* 24.11 (2023).
+Xu, Zhe. "[Book Review: Computing the News: Data Journalism and the Search for Objectivity](https://doi.org/10.1177/14648849231206924)." *Journalism* 24.11 (2023).
 
 Xu, Zhe, and Mengrong Zhang. "[The Politics of Pity under Authoritarianism](https://ijoc.org/index.php/ijoc/article/view/19850)." *International Journal of Communication* 17 (2023): 19-19.
 
