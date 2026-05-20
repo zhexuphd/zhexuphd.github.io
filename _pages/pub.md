@@ -2,7 +2,7 @@
 layout: page
 permalink: /pub/
 title: pub
-description: open-source code and software developed by my team to support computational social science research
+description: 
 nav: true
 nav_order: 9
 ---
