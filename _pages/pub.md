@@ -22,4 +22,4 @@ Xu, Zhe. "[Audiences of Distant Suffering in Authoritarian Regimes: Denial Mecha
 
 Xu, Zhe, and Mengrong Zhang. "[The “Ultimate Empathy Machine” as Technocratic Solutionism? Audience Reception of the Distant Refugee Crisis through Virtual Reality](https://doi.org/10.1080/10714421.2022.2129118)." *The Communication Review* 25.3-4 (2022): 181-203.
 
-Xu, Zhe. "[Book Review: *Routledge Handbook of Humanitarian Communication*](https://ijoc.org/index.php/ijoc/article/view/18809)." *International Journal of Communication* 15 (2021): 4.
+Xu, Zhe. "[Book Review: Routledge Handbook of Humanitarian Communication](https://ijoc.org/index.php/ijoc/article/view/18809)." *International Journal of Communication* 15 (2021): 4.
