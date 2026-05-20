@@ -6,7 +6,7 @@ description: open-source code and software developed by my team to support compu
 nav: true
 nav_order: 3
 ---
-## Team
+## Research Team at LMU Munich
 - Zhe Xu (Team Leader) — Department of Media and Communication, LMU Munich  
 - Shuai Wang (Research Assistant) — Department of Statistics, LMU Munich
 - Michela Cimarelli (Research Assistant) — Munich Center for Mathematical Philosophy, LMU Munich
