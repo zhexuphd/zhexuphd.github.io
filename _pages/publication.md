@@ -4,7 +4,7 @@ permalink: /publication/
 title: publication
 description: 
 nav: true
-nav_order: 9
+nav_order: 2
 ---
 
 Du, Ke, and Zhe Xu. "[Trust in news media across Asia: A multilevel analysis of individual and societal factors](https://doi.org/10.3390/journalmedia7010008)." *Journalism and Media* 7.1 (2026): 8.
