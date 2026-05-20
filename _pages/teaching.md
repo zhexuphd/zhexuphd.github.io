@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 ## LMU Munich, Germany
-- BA Communication Science, 2025-2026
+- [BA Communication Science](https://www.sw.lmu.de/ifkw/en/studies/degree-courses/ba-communications-major-psto-2015/), 2025-2026
 - MA Journalism, Media & Globalisation, LMU Munich, 2024-2025, 2025-2026
 
 ## University of Cologne, Germany
