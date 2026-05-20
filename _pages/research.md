@@ -26,7 +26,7 @@ https://doi.org/10.1177/02673231231211654)." *European Journal of Communication*
 
 (1) Xu, Zhe. "[Book review: Routledge handbook of humanitarian communication](https://ijoc.org/index.php/ijoc/article/view/18809)." *International Journal of Communication* 15 (2021): 4.
 
-## Working papers
+## Selected working papers
 
 (2) Xu, Zhe, Martin Scott, Shuai Wang, Dani Madrid-Morales, and Kate Wright. "Journalistic roles in humanitarian news: A multistage natural language processing approach." *Under review*.
 
