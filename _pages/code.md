@@ -11,9 +11,8 @@ nav_order: 3
 - Shuai Wang (Research Assistant) — Department of Statistics, LMU Munich
 - Michela Cimarelli (Research Assistant) — Munich Center for Mathematical Philosophy, LMU Munich
 
-## Computational framework
 **bertopic4news**  
-An optimized BERTopic framework for news discourse, integrating entropy-based filtering and Maximal Marginal Relevance (MMR) to improve topic quality and diversity. The Python code will be released soon on GitHub.
+An optimized BERTopic framework for computational news discourse analysis, integrating entropy-based filtering and Maximal Marginal Relevance (MMR) to improve topic quality and diversity (forthcoming).
 
 **VisFrameCluster**  
-an MLLM-augmented computational framework for visual frame discovery, combining multi-image integration, theory-informed prompting, semantic embedding, and unsupervised clustering with human-in-the-loop validation. The Python code will be released soon on GitHub.
+An MLLM-augmented framework for inductive visual frame analysis, combining multi-image integration, theory-informed prompting, semantic embedding, and unsupervised clustering with human-in-the-loop validation (forthcoming).
