@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research",
-          title: "research",
-          description: "selected publications, preprints, and working papers (reverse chronological order). See my Google Scholar profile for a full list.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
-          },
-        },{id: "nav-code",
+  },{id: "nav-code",
           title: "code",
           description: "open-source code and software developed by my team to support computational social science research",
           section: "Navigation",
@@ -44,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chinese/";
           },
-        },{id: "nav-pub",
-          title: "pub",
+        },{id: "nav-publication",
+          title: "publication",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/pub/";
+            window.location.href = "/publication/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
