@@ -28,6 +28,8 @@ https://doi.org/10.1177/02673231231211654)." *European Journal of Communication*
 
 ## Selected working papers
 
-(2) Xu, Zhe, Martin Scott, Shuai Wang, Dani Madrid-Morales, and Kate Wright. "Journalistic roles in humanitarian news: A multistage natural language processing approach." *Under review*.
+(3) Xu, Zhe, David Ongenaert, Shuai Wang, Canan Cetin, Mengrong Zhang, Michela Cimarelli, and David Luu. "Modeling Visual Framing of Humanitarian Emergency Appeals on Social Media Using Multimodal Large Language Models and Semantic Clustering." *Under review*. (DFG-funded)
 
-(1) Xu, Zhe, Yotam Ophir, Ke Du, Gaia Guatri, Shuai Wang, Dani Madrid-Morales, and Kate Wright. "A longitudinal unsupervised machine learning analysis of refugee framing in humanitarian news." *Under review*.
+(2) Xu, Zhe, Martin Scott, Shuai Wang, Dani Madrid-Morales, and Kate Wright. "Journalistic roles in humanitarian news: A multistage natural language processing approach." *Under review*. (DFG-funded)
+
+(1) Xu, Zhe, Yotam Ophir, Ke Du, Gaia Guatri, Shuai Wang, Dani Madrid-Morales, and Kate Wright. "A longitudinal unsupervised machine learning analysis of refugee framing in humanitarian news." *Under review*. (DFG-funded)
