@@ -8,13 +8,17 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-
 <!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
 
+## Publications
+
 <div class="publications">
+{% bibliography --query @*[keywords=published] %}
+</div>
 
-{% bibliography %}
+## Working Papers
 
+<div class="publications">
+{% bibliography --query @*[keywords=working paper] %}
 </div>
