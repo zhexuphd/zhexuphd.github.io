@@ -11,11 +11,15 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 {% include bib_search.liquid %}
 
+<br>
+
 ## Selected peer-reviewed publications
 
 <div class="publications">
 {% bibliography --query @*[keywords=published] %}
 </div>
+
+<br>
 
 ## Selected working papers
 
