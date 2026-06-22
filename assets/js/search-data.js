@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/code/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "open-source code and software developed by my team to support computational social science research",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "teaching is always fun for me.",
@@ -36,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/service/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "open-source code and software developed by my team to support computational social science research",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
           },
         },{id: "nav-中文",
           title: "中文",
