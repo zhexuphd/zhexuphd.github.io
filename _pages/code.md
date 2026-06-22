@@ -11,7 +11,7 @@ nav_order: 3
 - Shuai Wang (Research Assistant) — Department of Statistics, LMU Munich
 - Michela Cimarelli (Research Assistant) — Munich Center for Mathematical Philosophy, LMU Munich
 
-**bertopic4news**  
+**[bertopic4news](https://github.com/yuysky/bertopic4news)**  
 An optimized BERTopic framework for computational news discourse analysis, integrating entropy-based filtering and Maximal Marginal Relevance (MMR) to improve topic quality and diversity (forthcoming).
 
 **VisFrameCluster**  
