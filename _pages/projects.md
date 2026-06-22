@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: projects
-description: open-source code and software developed by my team to support computational social science research
+description: these projects are supported by national and international funding bodies
 nav: true
 nav_order: 3
 ---
