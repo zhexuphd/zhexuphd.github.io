@@ -7,13 +7,11 @@ nav: true
 nav_order: 13
 ---
 
-# projects
-
-Selected research projects and computational tools.
-
 ## VisFrameCluster
 
-![VisFrameCluster overview]({{ "/assets/img/1.jpg" | relative_url }})
+<img src="{{ '/assets/img/1.jpg' | relative_url }}" 
+     alt="VisFrameCluster overview" 
+     style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1.5rem auto;">
 
 **VisFrameCluster** is an MLLM-augmented computational framework for inductive visual frame analysis. It combines multi-image integration, theory-informed prompting, semantic embedding, unsupervised clustering, and human-in-the-loop validation.
 
