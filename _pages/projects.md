@@ -1,65 +1,23 @@
 ---
 layout: page
-title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+title: projects
+description: open-source code and software developed by my team to support computational social science research
+nav: true
+nav_order: 13
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+# projects
 
-{% else %}
+Selected research projects and computational tools.
 
-<!-- Display projects without categories -->
+## VisFrameCluster
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+![VisFrameCluster overview]({{ "/assets/img/1.jpg" | relative_url }})
 
-  <!-- Generate cards for each project -->
+**VisFrameCluster** is an MLLM-augmented computational framework for inductive visual frame analysis. It combines multi-image integration, theory-informed prompting, semantic embedding, unsupervised clustering, and human-in-the-loop validation.
 
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+- **Status:** in development
+- **Keywords:** visual framing, multimodal large language models, computational social science
+- **Code:** forthcoming
+- **Related publications:** forthcoming
