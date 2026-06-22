@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chinese/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "open-source code and software developed by my team to support computational social science research",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
