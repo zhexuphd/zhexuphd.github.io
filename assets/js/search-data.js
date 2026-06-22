@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "open-source code and software developed by my team to support computational social science research",
+          description: "these projects are supported by national and international funding bodies",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
