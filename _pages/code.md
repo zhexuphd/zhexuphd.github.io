@@ -12,7 +12,7 @@ nav_order: 3
 - Michela Cimarelli (Research Assistant) — Munich Center for Mathematical Philosophy, LMU Munich
 
 **[bertopic4news](https://github.com/yuysky/bertopic4news)**  
-An optimized BERTopic framework for computational news discourse analysis, integrating entropy-based filtering and Maximal Marginal Relevance (MMR) to improve topic quality and diversity (forthcoming).
+An optimized BERTopic framework for computational news discourse analysis, integrating entropy-based filtering and Maximal Marginal Relevance (MMR) to improve topic quality and diversity.
 
 **VisFrameCluster**  
 An MLLM-augmented framework for inductive visual frame analysis, combining multi-image integration, theory-informed prompting, semantic embedding, and unsupervised clustering with human-in-the-loop validation (forthcoming).
