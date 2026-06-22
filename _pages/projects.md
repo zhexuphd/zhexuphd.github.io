@@ -10,7 +10,7 @@ nav_order: 13
 ## Deutsche Forschungsgemeinschaft (DFG): Global Disparities in Journalistic Practices in Mediating Migration Crises
 
 <p align="center">
-  <img src="{{ '/assets/img/1.jpg' | relative_url }}" 
+  <img src="{{ '/assets/img/ifkwdfg.jpg' | relative_url }}" 
        alt="VisFrameCluster overview" 
        width="350">
 </p>
