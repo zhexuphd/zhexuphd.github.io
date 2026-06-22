@@ -7,7 +7,7 @@ nav: true
 nav_order: 13
 ---
 
-## VisFrameCluster
+## Deutsche Forschungsgemeinschaft (DFG): Global Disparities in Journalistic Practices in Mediating Migration Crises
 
 <p align="center">
   <img src="{{ '/assets/img/1.jpg' | relative_url }}" 
@@ -15,9 +15,8 @@ nav_order: 13
        width="350">
 </p>
 
-**VisFrameCluster** is an MLLM-augmented computational framework for inductive visual frame analysis. It combines multi-image integration, theory-informed prompting, semantic embedding, unsupervised clustering, and human-in-the-loop validation.
+This project uses a ten-year news corpus of over one million articles and applies multi-stage natural language processing and machine learning methods to examine how news media frame humanitarian crises and perform journalistic roles.
 
-- **Status:** in development
-- **Keywords:** visual framing, multimodal large language models, computational social science
-- **Code:** forthcoming
-- **Related publications:** forthcoming
+- **Duration:** 09/2024 – 03/2027
+- **Collaborators:** Martin Scott (University of East Anglia, UK); Dani Madrid-Morales (University of Sheffield, UK); Kate Wright (University of Edinburgh, UK); Yotam Ophir (University at Buffalo, US)
+
