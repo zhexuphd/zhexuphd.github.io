@@ -4,7 +4,7 @@ permalink: /projects/
 title: projects
 description: open-source code and software developed by my team to support computational social science research
 nav: true
-nav_order: 7
+nav_order: 3
 ---
 
 ## Deutsche Forschungsgemeinschaft (DFG): Global Disparities in Journalistic Practices in Mediating Migration Crises
