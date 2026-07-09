@@ -15,7 +15,7 @@ nav_order: 3
        width="350">
 </p>
 
-This project uses a ten-year news corpus of over one million articles and applies multi-stage natural language processing and machine learning methods to examine the framing (paper 1), journalistic roles (paper 2), and agenda-setting functions (paper 3) of humanitarian news.
+This project uses a ten-year news corpus of over one million articles and applies multi-stage natural language processing and machine learning methods to examine the framing (paper 1), journalistic roles (paper 2), and agenda-setting (paper 3) of humanitarian news.
 
 - **Duration:** 09/2024 – 03/2027
 - **Grant Amount:** €221,400
