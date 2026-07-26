@@ -14,4 +14,4 @@ nav_order: 4
 A BERTopic framework for news analysis, using entropy and maximal marginal relevance to improve topic quality and diversity.
 
 **VisFrameCluster**  
-An MLLM-augmented framework for inductive visual frame analysis, combining multi-image integration, theory-informed prompting, semantic embedding, and unsupervised clustering with human-in-the-loop validation (forthcoming).
+An inductive visual framing framework using MLLMs, semantic embedding, and clustering with human-in-the-loop validation (forthcoming).
