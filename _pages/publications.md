@@ -20,9 +20,3 @@ nav_order: 2
 </div>
 
 <br>
-
-## Selected working papers
-
-<div class="publications">
-{% bibliography --query @*[keywords=working paper] %}
-</div>
