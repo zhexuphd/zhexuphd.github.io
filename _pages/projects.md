@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-## Deutsche Forschungsgemeinschaft (DFG): The Politics of Humanitarian News
+## German Research Foundation (DFG): The Politics of International Humanitarian News
 
 <p align="center">
   <img src="{{ '/assets/img/ifkwdfg.jpg' | relative_url }}" 
@@ -15,7 +15,7 @@ nav_order: 3
        width="350">
 </p>
 
-This project uses a ten-year news corpus of over one million articles and applies multi-stage natural language processing and machine learning methods to examine the framing (paper 1), journalistic roles (paper 2), and agenda-setting (paper 3) of humanitarian news.
+This project uses a decade-long corpus of over one million news articles, applying natural language processing and machine learning to examine the framing (paper 1), journalistic role performance (paper 2), and agenda-setting (paper 3) of international humanitarian news.
 
 - **Duration:** 09/2024 – 03/2027
 - **Grant Amount:** €221,400
