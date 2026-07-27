@@ -6,9 +6,6 @@ description: open-source code and software developed by my team to support compu
 nav: true
 nav_order: 4
 ---
-## Research Team at LMU Munich
-- Zhe Xu (Team Leader) — Department of Media and Communication, LMU Munich  
-- Shuai Wang (Research Assistant) — Department of Statistics, LMU Munich
 
 **[bertopic4news](https://github.com/yuysky/bertopic4news)**  
 A BERTopic framework for news analysis, using entropy and maximal marginal relevance to improve topic quality and diversity.
