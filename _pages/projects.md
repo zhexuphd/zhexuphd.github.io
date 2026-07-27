@@ -49,7 +49,7 @@ This project uses a decade-long corpus of over one million news articles, applyi
          style="width:180px; height:180px; object-fit:cover;">
     <p><strong>Modeling the Framing Network of Refugee Issues in Humanitarian News: A Longitudinal Computational Analysis</strong><br>
     Xu, Z., Ophir, Y., Du, K., Guatri, G., Madrid-Morales, D., Wright, K., & Wang, S.<br>
-    <em>Under Review</em></p>
+    <em>ICA 2026 & Under Review</em></p>
   </div>
 
 </div>
