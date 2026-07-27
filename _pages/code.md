@@ -7,8 +7,8 @@ nav: true
 nav_order: 4
 ---
 
-**[bertopic4news](https://github.com/yuysky/bertopic4news)**  
+**[bertopic4news (with Shuai Wang)](https://github.com/yuysky/bertopic4news)**  
 A BERTopic framework for news analysis, using entropy and maximal marginal relevance to improve topic quality and diversity.
 
-**VisFrameCluster**  
+**VisFrameCluster (with Shuai Wang)**  
 An inductive visual framing framework using MLLMs, semantic embedding, and clustering with human-in-the-loop validation (forthcoming).
