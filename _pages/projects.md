@@ -37,12 +37,12 @@ This project uses a decade-long corpus of over one million news articles, applyi
   </div>
 
   <div style="text-align:center; width:180px;">
-    <img src="{{ '/assets/img/paper2.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/publication_preview/times.png' | relative_url }}"
          alt="Paper 2"
          style="width:180px; height:180px; object-fit:cover;">
-    <p><strong>Paper 2</strong><br>
-    Journalistic Role Performance<br>
-    <em>In Preparation</em></p>
+    <p><strong>Modeling the Framing Network of Refugee Issues in Humanitarian News: A Longitudinal Computational Analysis</strong><br>
+    Xu, Z., Ophir, Y., Du, K., Guatri, G., Madrid-Morales, D., Wright, K., & Wang, S.<br>
+    <em>Under Review</em></p>
   </div>
 
   <div style="text-align:center; width:180px;">
