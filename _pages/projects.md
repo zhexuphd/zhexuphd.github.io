@@ -23,7 +23,7 @@ This project uses a decade-long corpus of over one million news articles, applyi
 - **Collaborators:** Prof. Dr. Martin Scott (University of East Anglia, UK); Prof. Dr. Dani Madrid-Morales (University of Sheffield, UK); Prof. Dr. Kate Wright (University of Edinburgh, UK); Prof. Dr. Yotam Ophir (University at Buffalo, US); Prof. Dr. Liane Rothenberger (Otto-Friedrich-Universität Bamberg, Germany)
 - **Research Team:** Michela Cimarelli (LMU Munich); Shuai Wang (LMU Munich)
 
-<h3>Current Outputs</h3>
+<h4 style="margin-top:40px;">Research Outputs</h4>
 
 <div style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin-top:20px;">
 
