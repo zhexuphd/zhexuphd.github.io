@@ -20,8 +20,15 @@ This project uses a decade-long corpus of over one million news articles, applyi
 - **Duration:** 09/2024 – 03/2027
 - **Grant Amount:** €221,400
 - **PI:** Dr. Zhe Xu (LMU Munich, Germany)
-- **Collaborators:** Prof. Dr. Martin Scott (University of East Anglia, UK); Prof. Dr. Dani Madrid-Morales (University of Sheffield, UK); Prof. Dr. Kate Wright (University of Edinburgh, UK); Prof. Dr. Yotam Ophir (University at Buffalo, US); Prof. Dr. Liane Rothenberger (Otto-Friedrich-Universität Bamberg, Germany)
-- **Research Team:** Michela Cimarelli (LMU Munich); Shuai Wang (LMU Munich)
+- **Collaborators:**
+- Prof. Dr. Martin Scott (School of Global Development, University of East Anglia, UK)
+- Prof. Dr. Dani Madrid-Morales (School of Information, Journalism and Communication, University of Sheffield, UK)
+- Prof. Dr. Kate Wright (School of Social and Political Science, University of Edinburgh, UK)
+- Prof. Dr. Yotam Ophir (Department of Communication, University at Buffalo, US)
+- Prof. Dr. Liane Rothenberger (Institute of Communication Science, Otto-Friedrich-Universität Bamberg, Germany)
+- **Research Assistants:**
+- Michela Cimarelli (Munich Center for Mathematical Philosophy, LMU Munich, Germany)
+- Shuai Wang (Department of Statistics, LMU Munich, Germany)
 
 <h4 style="margin-top:40px;">Research Outputs</h4>
 
