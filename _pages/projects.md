@@ -46,12 +46,12 @@ This project uses a decade-long corpus of over one million news articles, applyi
   </div>
 
   <div style="text-align:center; width:180px;">
-    <img src="{{ '/assets/img/paper3.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/publication_preview/bert.png' | relative_url }}"
          alt="Paper 3"
          style="width:180px; height:180px; object-fit:cover;">
-    <p><strong>Paper 3</strong><br>
-    Global Agenda-setting<br>
-    <em>Data Collection</em></p>
+    <p><strong>bertopic4news</strong><br>
+    Xu, Z. & Wang, S.<br>
+    <em>Code available on GitHub</em></p>
   </div>
 
 </div>
