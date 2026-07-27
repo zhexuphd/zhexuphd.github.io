@@ -19,7 +19,7 @@ This project uses a decade-long corpus of over one million news articles, applyi
 
 - **Duration:** 09/2024 – 03/2027
 - **Grant Amount:** €221,400
-- **PI:** Dr. Zhe Xu (LMU Munich, Germany)
+- **PI:** Dr. Zhe Xu (Department of Media and Communication, LMU Munich, Germany)
 - **Collaborators:**
 - Prof. Dr. Martin Scott (School of Global Development, University of East Anglia, UK)
 - Prof. Dr. Dani Madrid-Morales (School of Information, Journalism and Communication, University of Sheffield, UK)
