@@ -15,7 +15,7 @@ nav_order: 3
        width="350">
 </p>
 
-This project uses a decade-long corpus of over one million news articles, applying natural language processing and machine learning to examine the framing (paper 1), journalistic role performance (paper 2), and agenda-setting (paper 3) of international humanitarian news.
+This project use a decade-long corpus of more than one million news articles and employs NLP-based computational content analysis to investigate how international news media frame humanitarian crises (Paper 1), enact their journalistic role during crises (Paper 2), and shape agenda-setting processes in the context of humanitarian crises (Paper 3).
 
 - **Duration:** 09/2024 – 03/2027
 - **Grant Amount:** €221,400
