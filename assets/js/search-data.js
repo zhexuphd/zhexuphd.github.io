@@ -56,11 +56,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-5",
-          title: 'Announcement_5',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_5/";
             },},{id: "news-awarded-the-walter-benjamin-grant-by-the-german-research-foundation-dfg-221-400",
           title: 'Awarded the Walter Benjamin Grant by the German Research Foundation (DFG) (€221,400).',
           description: "",
