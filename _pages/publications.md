@@ -58,5 +58,5 @@ nav_order: 2
       <em>The Communication Review</em>, 2022
     </p>
   </div>
-
+ </div>
 <br>
