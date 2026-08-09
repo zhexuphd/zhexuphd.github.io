@@ -13,111 +13,22 @@ nav_order: 2
 
 <br>
 
-<div style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin-top:20px;">
+#### Selected Publications
 
-<!-- Paper 3 -->
-<div style="text-align:center; width:180px;">
-  <a href="https://www.mdpi.com/2673-5172/7/1/8" target="_blank">
-    <img src="{{ '/assets/img/publication_preview/trust.png' | relative_url }}"
-         alt="Trust in News Media Across Asia"
-         style="width:180px; height:180px; object-fit:cover;">
-  </a>
+**The Visual Politics of Refugee Return: Hegemonic Visual Grammar and Affective Governance in Authoritarian Media**  
+with Canan Cetin · *Media, War & Conflict*, Forthcoming
 
-  <p>
-    <a href="https://www.mdpi.com/2673-5172/7/1/8"
-       target="_blank"
-       style="text-decoration:none; color:inherit;">
-      <strong>Trust in News Media Across Asia: A Multilevel Analysis of Individual and Societal Factors</strong>
-    </a><br>
+**[Trust in News Media Across Asia: A Multilevel Analysis of Individual and Societal Factors](https://www.mdpi.com/2673-5172/7/1/8)**  
+with Ke Du · *Journalism and Media*, 2026
 
-    Du, K. & Xu, Z.<br>
+**[How News Media Visually Dehumanize Victims of Humanitarian Crises through Framing Disparities: A Quantitative Comparative Analysis](https://journals.sagepub.com/doi/10.1177/17480485231216583)**  
+with Mengrong Zhang · *International Communication Gazette*, 2024
 
-    <em>Journalism and Media</em>, 2026
-  </p>
-</div>
+**[The Politics of Pity under Authoritarianism: How Government-Controlled Media Regulates Audiences' Mediated Experiences of Distant Suffering](https://ijoc.org/index.php/ijoc/article/view/19850)**  
+with Mengrong Zhang · *International Journal of Communication*, 2023
 
-  <!-- Paper 1 -->
-  <div style="text-align:center; width:180px;">
-    <a href="https://journals.sagepub.com/doi/10.1177/17480485231216583" target="_blank">
-      <img src="{{ '/assets/img/publication_preview/paper1.jpg' | relative_url }}"
-           alt="How News Media Visually Dehumanize Victims of Humanitarian Crises through Framing Disparities"
-           style="width:180px; height:180px; object-fit:cover;">
-    </a>
+**[Audiences of Distant Suffering in Authoritarian Regimes: Denial Mechanisms and Acts of Moral Justification](https://journals.sagepub.com/doi/10.1177/01634437231155339)** 
+*Media, Culture & Society*, 2023
 
-    <p>
-      <a href="https://journals.sagepub.com/doi/10.1177/17480485231216583"
-         target="_blank"
-         style="text-decoration:none; color:inherit;">
-        <strong>How News Media Visually Dehumanize Victims of Humanitarian Crises through Framing Disparities: A Quantitative Comparative Analysis</strong>
-      </a><br>
-
-      Xu, Z. & Zhang, M.<br>
-
-      <em>International Communication Gazette</em>, 2024
-    </p>
-  </div>
-
-<!-- Paper 5 -->
-<div style="text-align:center; width:180px;">
-  <a href="https://ijoc.org/index.php/ijoc/article/view/19850" target="_blank">
-    <img src="{{ '/assets/img/publication_preview/ppaper4.png' | relative_url }}"
-         alt="The Politics of Pity under Authoritarianism"
-         style="width:180px; height:180px; object-fit:cover;">
-  </a>
-
-  <p>
-    <a href="https://ijoc.org/index.php/ijoc/article/view/19850"
-       target="_blank"
-       style="text-decoration:none; color:inherit;">
-      <strong>The Politics of Pity under Authoritarianism: How Government-Controlled Media Regulates Audiences' Mediated Experiences of Distant Suffering</strong>
-    </a><br>
-
-    Xu, Z. & Zhang, M.<br>
-
-    <em>International Journal of Communication</em>, 2023
-  </p>
-</div>
-
-<!-- Paper 4 -->
-<div style="text-align:center; width:180px;">
-  <a href="https://journals.sagepub.com/doi/abs/10.1177/01634437231155339" target="_blank">
-    <img src="{{ '/assets/img/publication_preview/ppaper3.png' | relative_url }}"
-         alt="Audiences of Distant Suffering in Authoritarian Regimes"
-         style="width:180px; height:180px; object-fit:cover;">
-  </a>
-
-  <p>
-    <a href="https://journals.sagepub.com/doi/abs/10.1177/01634437231155339"
-       target="_blank"
-       style="text-decoration:none; color:inherit;">
-      <strong>Audiences of Distant Suffering in Authoritarian Regimes: Denial Mechanisms and Acts of Moral Justification</strong>
-    </a><br>
-
-    Xu, Z.<br>
-
-    <em>Media, Culture & Society</em>, 2023
-  </p>
-</div>
-
-  <!-- Paper 2 -->
-  <div style="text-align:center; width:180px;">
-    <a href="https://www.tandfonline.com/doi/full/10.1080/10714421.2022.2129118" target="_blank">
-      <img src="{{ '/assets/img/publication_preview/paper2.jpg' | relative_url }}"
-           alt="The Ultimate Empathy Machine as Technocratic Solutionism"
-           style="width:180px; height:180px; object-fit:cover;">
-    </a>
-
-    <p>
-      <a href="https://www.tandfonline.com/doi/full/10.1080/10714421.2022.2129118"
-         target="_blank"
-         style="text-decoration:none; color:inherit;">
-        <strong>The "Ultimate Empathy Machine" as Technocratic Solutionism? Audience Reception of the Distant Refugee Crisis through Virtual Reality</strong>
-      </a><br>
-
-      Xu, Z. & Zhang, M.<br>
-
-      <em>The Communication Review</em>, 2022
-    </p>
-  </div>
- </div>
-<br>
+**[The "Ultimate Empathy Machine" as Technocratic Solutionism? Audience Reception of the Distant Refugee Crisis through Virtual Reality](https://www.tandfonline.com/doi/full/10.1080/10714421.2022.2129118)**  
+with Mengrong Zhang · *The Communication Review*, 2022
