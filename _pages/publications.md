@@ -13,41 +13,47 @@ nav_order: 2
 
 <br>
 
+<h4 style="margin-top:40px;">Research Outputs</h4>
+
 <div style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin-top:20px;">
 
-  <div style="text-align:center; width:220px;">
-    <img src="{{ '/assets/img/publication_preview/paper1.jpg' | relative_url }}"
-         alt="Paper 1"
-         style="width:220px; height:220px; object-fit:cover;">
+  <div style="text-align:center; width:180px;">
+    <a href="https://journals.sagepub.com/doi/10.1177/17480485231216583" target="_blank">
+      <img src="{{ '/assets/img/publication_preview/paper1.jpg' | relative_url }}"
+           alt="Paper 1"
+           style="width:180px; height:180px; object-fit:cover;">
+    </a>
 
     <p>
-      <strong>How News Media Visually Dehumanize Victims of Humanitarian Crises through Framing Disparities</strong><br>
-      A Quantitative Comparative Analysis<br><br>
+      <a href="https://journals.sagepub.com/doi/10.1177/17480485231216583"
+         target="_blank"
+         style="text-decoration:none; color:inherit;">
+        <strong>How News Media Visually Dehumanize Victims of Humanitarian Crises through Framing Disparities: A Quantitative Comparative Analysis</strong>
+      </a><br>
 
-      <span style="font-size:0.9em;">
-      Zhe Xu & Mengrong Zhang
-      </span><br>
+      Xu, Z. & Mengrong Zhang<br>
 
-      <em>International Communication Gazette</em>, 2024<br>
-      <span style="font-size:0.9em;">Published</span>
+      <em>International Communication Gazette, 2024</em>
     </p>
   </div>
 
-  <div style="text-align:center; width:220px;">
-    <img src="{{ '/assets/img/publication_preview/paper2.jpg' | relative_url }}"
-         alt="Paper 2"
-         style="width:220px; height:220px; object-fit:cover;">
+  <div style="text-align:center; width:180px;">
+    <a href="https://www.tandfonline.com/doi/full/10.1080/10714421.2022.2129118" target="_blank">
+      <img src="{{ '/assets/img/publication_preview/paper2.jpg' | relative_url }}"
+           alt="Paper 2"
+           style="width:180px; height:180px; object-fit:cover;">
+    </a>
 
     <p>
-      <strong>The "Ultimate Empathy Machine" as Technocratic Solutionism?</strong><br>
-      Audience Reception of the Distant Refugee Crisis through Virtual Reality<br><br>
+      <a href="https://www.tandfonline.com/doi/full/10.1080/10714421.2022.2129118"
+         target="_blank"
+         style="text-decoration:none; color:inherit;">
+        <strong>The "Ultimate Empathy Machine" as Technocratic Solutionism? Audience Reception of the Distant Refugee Crisis through Virtual Reality</strong>
+      </a><br>
 
-      <span style="font-size:0.9em;">
-      Zhe Xu & Mengrong Zhang
-      </span><br>
+      Xu, Z. & Mengrong Zhang<br>
 
-      <em>The Communication Review</em>, 2022<br>
-      <span style="font-size:0.9em;">Published</span>
+      <em>The Communication Review, 2022</em>
     </p>
   </div>
 
