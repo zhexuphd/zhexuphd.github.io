@@ -57,6 +57,27 @@ nav_order: 2
     </p>
   </div>
 
+<!-- Paper 4 -->
+<div style="text-align:center; width:180px;">
+  <a href="https://journals.sagepub.com/doi/abs/10.1177/01634437231155339" target="_blank">
+    <img src="{{ '/assets/img/publication_preview/ppaper3.png' | relative_url }}"
+         alt="Audiences of Distant Suffering in Authoritarian Regimes"
+         style="width:180px; height:180px; object-fit:cover;">
+  </a>
+
+  <p>
+    <a href="https://journals.sagepub.com/doi/abs/10.1177/01634437231155339"
+       target="_blank"
+       style="text-decoration:none; color:inherit;">
+      <strong>Audiences of Distant Suffering in Authoritarian Regimes: Denial Mechanisms and Acts of Moral Justification</strong>
+    </a><br>
+
+    Xu, Z.<br>
+
+    <em>Media, Culture & Society</em>, 2023
+  </p>
+</div>
+
   <!-- Paper 2 -->
   <div style="text-align:center; width:180px;">
     <a href="https://www.tandfonline.com/doi/full/10.1080/10714421.2022.2129118" target="_blank">
