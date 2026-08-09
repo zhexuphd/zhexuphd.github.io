@@ -15,6 +15,27 @@ nav_order: 2
 
 <div style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin-top:20px;">
 
+<!-- Paper 3 -->
+<div style="text-align:center; width:180px;">
+  <a href="https://www.mdpi.com/2673-5172/7/1/8" target="_blank">
+    <img src="{{ '/assets/img/publication_preview/trust.png' | relative_url }}"
+         alt="Trust in News Media Across Asia"
+         style="width:180px; height:180px; object-fit:cover;">
+  </a>
+
+  <p>
+    <a href="https://www.mdpi.com/2673-5172/7/1/8"
+       target="_blank"
+       style="text-decoration:none; color:inherit;">
+      <strong>Trust in News Media Across Asia: A Multilevel Analysis of Individual and Societal Factors</strong>
+    </a><br>
+
+    Du, K. & Xu, Z.<br>
+
+    <em>Journalism and Media</em>, 2026
+  </p>
+</div>
+
   <!-- Paper 1 -->
   <div style="text-align:center; width:180px;">
     <a href="https://journals.sagepub.com/doi/10.1177/17480485231216583" target="_blank">
