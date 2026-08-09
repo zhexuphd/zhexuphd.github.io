@@ -13,8 +13,6 @@ nav_order: 2
 
 <br>
 
-#### Selected Publications
-
 **The Visual Politics of Refugee Return: Hegemonic Visual Grammar and Affective Governance in Authoritarian Media**  
 with Canan Cetin · *Media, War & Conflict*, Forthcoming
 
