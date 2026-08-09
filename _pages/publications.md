@@ -13,8 +13,6 @@ nav_order: 2
 
 <br>
 
-<h4 style="margin-top:40px;">Research Outputs</h4>
-
 <div style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin-top:20px;">
 
   <!-- Paper 1 -->
