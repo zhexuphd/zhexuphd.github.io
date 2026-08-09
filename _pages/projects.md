@@ -40,7 +40,7 @@ This project use a decade-long corpus of more than one million news articles and
          style="width:180px; height:180px; object-fit:cover;">
     <p><strong>Prioritizing journalistic norms or humanitarian values? A multistage computational analysis of journalistic role performance in humanitarian news</strong><br>
     Xu, Z., Scott, M., Madrid-Morales, D., Wright, K., & Wang, S.<br>
-    <em>Under Review</em></p>
+    <em>R & R </em></p>
   </div>
 
   <div style="text-align:center; width:180px;">
