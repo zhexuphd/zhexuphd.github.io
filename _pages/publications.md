@@ -57,6 +57,27 @@ nav_order: 2
     </p>
   </div>
 
+<!-- Paper 5 -->
+<div style="text-align:center; width:180px;">
+  <a href="https://ijoc.org/index.php/ijoc/article/view/19850" target="_blank">
+    <img src="{{ '/assets/img/publication_preview/ppaper4.png' | relative_url }}"
+         alt="The Politics of Pity under Authoritarianism"
+         style="width:180px; height:180px; object-fit:cover;">
+  </a>
+
+  <p>
+    <a href="https://ijoc.org/index.php/ijoc/article/view/19850"
+       target="_blank"
+       style="text-decoration:none; color:inherit;">
+      <strong>The Politics of Pity under Authoritarianism: How Government-Controlled Media Regulates Audiences' Mediated Experiences of Distant Suffering</strong>
+    </a><br>
+
+    Xu, Z. & Zhang, M.<br>
+
+    <em>International Journal of Communication</em>, 2023
+  </p>
+</div>
+
 <!-- Paper 4 -->
 <div style="text-align:center; width:180px;">
   <a href="https://journals.sagepub.com/doi/abs/10.1177/01634437231155339" target="_blank">
