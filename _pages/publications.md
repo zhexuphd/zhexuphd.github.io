@@ -11,10 +11,16 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+## Selected Peer-Reviewed Journal Articles
 
 <div class="publications">
+{% bibliography --query @*[keywords~=journal] %}
+</div>
 
-{% bibliography %}
+---
 
+## Working Papers
+
+<div class="publications">
+{% bibliography --query @*[keywords~=working] %}
 </div>
