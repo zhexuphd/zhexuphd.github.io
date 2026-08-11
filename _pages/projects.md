@@ -7,13 +7,21 @@ nav: true
 nav_order: 3
 ---
 
-## German Research Foundation (DFG): The Politics of International Humanitarian News
+<div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:30px; gap:40px; flex-wrap:wrap;">
 
-<p align="center">
-  <img src="{{ '/assets/img/ifkwdfg.jpg' | relative_url }}" 
-       alt="VisFrameCluster overview" 
-       width="350">
-</p>
+  <div style="flex:1;">
+    <h2 style="margin:0;">
+      German Research Foundation (DFG): The Politics of International Humanitarian News
+    </h2>
+  </div>
+
+  <div style="flex:0 0 350px; text-align:center;">
+    <img src="{{ '/assets/img/ifkwdfg.jpg' | relative_url }}"
+         alt="Project overview"
+         style="width:350px; max-width:100%;">
+  </div>
+
+</div>
 
 This project use a decade-long corpus of more than one million news articles and employs NLP-based computational content analysis to investigate how international news media frame humanitarian crises (Paper 1), enact their journalistic role during crises (Paper 2), and shape agenda-setting processes in the context of humanitarian crises (Paper 3).
 
