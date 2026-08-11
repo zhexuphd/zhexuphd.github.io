@@ -19,7 +19,7 @@ nav_order: 2
 
 ---
 
-## Working Papers
+## Selected Working Papers
 
 <div class="publications">
 {% bibliography --query @*[keywords~=working] %}
