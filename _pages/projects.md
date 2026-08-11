@@ -37,27 +37,3 @@ This project use a decade-long corpus of more than one million news articles and
 - **Research Assistants:** <br>
   Michela Cimarelli (Munich Center for Mathematical Philosophy, LMU Munich, Germany)<br>
   Shuai Wang (Department of Statistics, LMU Munich, Germany)
-
-<h4 style="margin-top:40px;">Research Outputs</h4>
-
-<div style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin-top:20px;">
-
-  <div style="text-align:center; width:180px;">
-    <img src="{{ '/assets/img/publication_preview/bertanalysis.png' | relative_url }}"
-         alt="Paper 1"
-         style="width:180px; height:180px; object-fit:cover;">
-    <p><strong>Prioritizing journalistic norms or humanitarian values? A multistage computational analysis of journalistic role performance in humanitarian news</strong><br>
-    Xu, Z., Scott, M., Madrid-Morales, D., Wright, K., & Wang, S.<br>
-    <em>R & R </em></p>
-  </div>
-
-  <div style="text-align:center; width:180px;">
-    <img src="{{ '/assets/img/publication_preview/times.png' | relative_url }}"
-         alt="Paper 2"
-         style="width:180px; height:180px; object-fit:cover;">
-    <p><strong>Modeling the Framing Network of Refugee Issues in Humanitarian News: A Longitudinal Computational Analysis</strong><br>
-    Xu, Z., Ophir, Y., Du, K., Guatri, G., Madrid-Morales, D., Wright, K., & Wang, S.<br>
-    <em>Presented at ICA 2026 & Under Review</em></p>
-  </div>
-
-</div>
