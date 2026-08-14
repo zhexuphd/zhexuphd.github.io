@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "selected publications only, including peer-reviewed journal articles and working papers.",
+          description: "selected publications only, including peer-reviewed journal articles and working papers",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "teaching is always fun for me.",
+          description: "teaching is always fun for me",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
