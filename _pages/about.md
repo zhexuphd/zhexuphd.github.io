@@ -23,7 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a [Walter Benjamin Postdoctoral Fellow](https://www.sw.lmu.de/ifkw/en/department/people-contacts-and-organization/people-at-the-ifkw/contact-page/zhe-xu-b7d6b0a9.html) in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), working with [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/). 
+I am a [Walter Benjamin postdoctoral fellow](https://www.sw.lmu.de/ifkw/en/department/people-contacts-and-organization/people-at-the-ifkw/contact-page/zhe-xu-b7d6b0a9.html) in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), working with [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/). 
 
 I work in crisis communication. Using natural language processing and survey experiments on diverse datasets including large-scale political activity data and longitudinal multimodal news data, I study how emerging technologies and political elites shape humanitarian information environments and how public attitudes and behaviors respond as a result.
 
