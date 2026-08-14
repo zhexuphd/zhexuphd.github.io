@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: selected publications only, including peer-reviewed journal articles and working papers.
+description: selected publications only, including peer-reviewed journal articles and working papers
 nav: true
 nav_order: 2
 ---
