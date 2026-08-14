@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "selected publications only, including peer-reviewed journal articles and working papers. See my Google Scholar profile for a full list.",
+          description: "selected publications only, including peer-reviewed journal articles and working papers.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
