@@ -11,7 +11,7 @@ nav_order: 3
 
   <div style="flex:1;">
     <h2 style="margin:0;">
-      German Research Foundation (DFG): The Politics of International Humanitarian News
+      The Politics of International Humanitarian News (Funded by the German Research Foundation, DFG)
     </h2>
   </div>
 
