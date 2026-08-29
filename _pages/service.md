@@ -34,6 +34,7 @@ nav_order: 6
   <li><a href="https://journals.sagepub.com/home/ECS">European Journal of Cultural Studies</a></li>
   <li><a href="https://www.frontiersin.org/journals/communication">Frontiers in Communication</a></li>
    <li><a href="https://journals.sagepub.com/home/ECS">European Journal of Cultural Studies</a></li>
+  <li><a href="https://www.tandfonline.com/journals/udbh20">Deviant Behavior</a></li>
 </ul>
 
 ## Conference Organization
