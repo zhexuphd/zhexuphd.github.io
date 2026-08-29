@@ -20,17 +20,17 @@ nav_order: 6
 ## Editorial Reviewing
 
 <ul class="service-list">
+    <li><a href="https://journals.sagepub.com/home/nms">New Media & Society</a></li>
   <li><a href="https://www.nature.com/palcomms/">Humanities and Social Sciences Communications</a></li>
   <li><a href="https://www.sciencedirect.com/journal/social-science-and-medicine">Social Science & Medicine</a></li>
-  <li><a href="https://www.sciencedirect.com/journal/acta-psychologica">Acta Psychologica</a></li>
   <li><a href="https://ijoc.org/index.php/ijoc">International Journal of Communication</a></li>
   <li><a href="https://journals.sagepub.com/home/jou">Journalism</a></li>
+    <li><a href="https://academic.oup.com/gpc">Global Perspectives in Communication</a></li>
   <li><a href="https://journals.sagepub.com/home/mwc">Media, War & Conflict</a></li>
   <li><a href="https://www.tandfonline.com/journals/rjop20">Journalism Practice</a></li>
+    <li><a href="https://www.sciencedirect.com/journal/acta-psychologica">Acta Psychologica</a></li>
   <li><a href="https://www.tandfonline.com/journals/rcqu20">Communication Quarterly</a></li>
   <li><a href="https://www.tandfonline.com/journals/hajc20">Atlantic Journal of Communication</a></li>
-  <li><a href="https://academic.oup.com/gpc">Global Perspectives in Communication</a></li>
-  <li><a href="https://journals.sagepub.com/home/nms">New Media & Society</a></li>
   <li><a href="https://journals.sagepub.com/home/ECS">European Journal of Cultural Studies</a></li>
   <li><a href="https://www.frontiersin.org/journals/communication">Frontiers in Communication</a></li>
    <li><a href="https://journals.sagepub.com/home/ECS">European Journal of Cultural Studies</a></li>
