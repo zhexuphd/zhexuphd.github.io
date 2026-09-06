@@ -11,7 +11,7 @@ nav_order: 3
 
   <div style="flex:1;">
     <h2 style="margin:0;">
-      A Computational Study of Humanitarian News (Funded by the German Research Foundation, DFG)
+      Computational Analysis of Humanitarian News (Funded by the German Research Foundation, DFG)
     </h2>
   </div>
 
