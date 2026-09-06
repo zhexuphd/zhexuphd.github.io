@@ -11,16 +11,14 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-## Selected Peer-Reviewed Journal Articles
+## The Politics of Humanitarian Journalism
 
 <div class="publications">
-{% bibliography --query @*[keywords~=journal] %}
+{% bibliography --query @*[keywords~=politics] %}
 </div>
 
----
-
-## Selected Working Papers
+## The Platformization of Humanitarian Communication
 
 <div class="publications">
-{% bibliography --query @*[keywords~=working] %}
+{% bibliography --query @*[keywords~=platformization] %}
 </div>
