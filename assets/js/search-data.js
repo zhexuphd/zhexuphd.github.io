@@ -56,8 +56,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-awarded-the-walter-benjamin-grant-by-the-german-research-foundation-dfg-221-400",
-          title: 'Awarded the Walter Benjamin Grant by the German Research Foundation (DFG) (€221,400).',
+            },},{id: "news-joined-lmu-munich-as-a-research-associate-and-was-awarded-a-221-400-walter-benjamin-grant-by-the-dfg",
+          title: 'Joined LMU Munich as a Research Associate and was awarded a €221,400 Walter...',
           description: "",
           section: "News",},{id: "news-excited-to-join-the-department-of-media-and-communication-at-lmu-munich-as-a-research-associate",
           title: 'Excited to join the Department of Media and Communication at LMU Munich as...',
