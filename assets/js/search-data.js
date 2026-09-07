@@ -59,7 +59,7 @@ ninja.data = [{
             },},{id: "news-joined-lmu-munich-as-a-research-associate-and-was-awarded-a-221-400-walter-benjamin-grant-by-the-dfg",
           title: 'Joined LMU Munich as a Research Associate and was awarded a €221,400 Walter...',
           description: "",
-          section: "News",},{id: "news-visiting-the-london-school-of-economics-and-political-science-lse-as-a-visiting-scholar-hosted-by-prof-dr-lilie-chouliaraki",
+          section: "News",},{id: "news-visiting-the-london-school-of-economics-and-political-science-lse-as-a-visiting-scholar",
           title: 'Visiting the London School of Economics and Political Science (LSE) as a visiting...',
           description: "",
           section: "News",},{id: "news-joined-the-public-tech-media-lab-at-the-university-of-wisconsin-madison-as-a-research-fellow",
