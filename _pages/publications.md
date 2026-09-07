@@ -21,11 +21,7 @@ A foundational question in media scholarship concerns whether news media can fos
 {% bibliography --query @*[keywords~=politics] %}
 </div>
 
-## Humanitarianism in Algorithmically Curated and Technologically Mediated Media Environments
-
-<small>
-  My research critically examines the possibilities and challenges that technology introduces into humanitarian communication and crisis information environments. Epistemologically informed by Science and Technology Studies, I treat platform algorithms and emerging technologies as constitutive actors in the amplification and monetization of humanitarian suffering. Methodologically, I am committed to evidence integration across diverse approaches — from ethnography to neuroscientific experimentation — in service of the questions I ask.
-</small>
+## Humanitarianism in Algorithmically and Technologically Mediated Information Environments
 
 <div class="publications">
 {% bibliography --query @*[keywords~=platformization] %}
