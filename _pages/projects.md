@@ -23,7 +23,7 @@ nav_order: 3
 
 </div>
 
-This project uses a decade-long corpus of more than one million news articles and employs NLP-based computational content analysis to investigate how international news media frame humanitarian crises, enact their journalistic role during crises, and shape agenda-setting processes in the context of humanitarian crises.
+This project draws on a decade-long [corpus](https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search) of over one million humanitarian news articles developed by the University of Edinburgh team, developing and employing natural language processing and network analysis methods to examine journalistic practices across political and media systems in the context of humanitarian crises.
 
 - **Duration:** 09/2024 – 03/2027
 - **Grant Amount:** €221,400
