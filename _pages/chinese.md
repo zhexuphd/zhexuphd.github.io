@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /chinese/
-title: 中文
+title: 中文/Chinese
 description: 
 nav: true
 nav_order: 8
