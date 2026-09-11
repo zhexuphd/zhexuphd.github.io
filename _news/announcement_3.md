@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Joined [LMU Munich](https://www.lmu.de/en/) as a Research Associate and was awarded a €221,400 [Walter Benjamin Grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) by the [DFG](https://www.dfg.de/en).
+Joined LMU Munich as a Research Associate and was awarded a €221,400 [Walter Benjamin Grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) by the DFG.
 
