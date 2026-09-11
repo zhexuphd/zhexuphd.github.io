@@ -4,6 +4,12 @@ title: about
 permalink: /
 subtitle:
 
+_styles: |
+  .profile img {
+    width: 280px;
+    max-width: 100%;
+  }
+
 profile:
   align: right
   image: bbc3.jpg
