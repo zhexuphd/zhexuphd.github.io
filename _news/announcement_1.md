@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the [Public Tech Media Lab](https://ptml.sjmc.wisc.edu/) at the [University of Wisconsin–Madison](https://www.wisc.edu/) as a Research Fellow.
+Joined the Public Tech Media Lab at the University of Wisconsin–Madison as a Research Fellow.
