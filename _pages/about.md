@@ -14,7 +14,7 @@ profile:
   align: right
   image: bbc3.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Communication scientist researching humanitarianism, political communication, text as data, social data science, and responsible technology.
+  more_info: >
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
