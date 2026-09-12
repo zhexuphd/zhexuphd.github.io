@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 title: projects
 description: these projects are supported by national and international funding bodies
-nav: true
+nav: false
 nav_order: 3
 ---
 
