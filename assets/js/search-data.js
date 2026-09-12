@@ -49,7 +49,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-the-department-of-media-and-communication-at-lmu-munich",
+            },},{id: "news-awarded-a-221-400-walter-benjamin-grant-by-the-dfg",
+          title: 'Awarded a €221,400 Walter Benjamin Grant by the DFG.',
+          description: "",
+          section: "News",},{id: "news-joined-the-department-of-media-and-communication-at-lmu-munich",
           title: 'Joined the Department of Media and Communication at LMU Munich.',
           description: "",
           section: "News",},{id: "news-joined-the-public-tech-media-lab-at-the-university-of-wisconsin-madison",
