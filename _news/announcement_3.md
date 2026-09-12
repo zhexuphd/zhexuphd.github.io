@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Joined LMU Munich as a Research Associate and was awarded a €221,400 [Walter Benjamin Grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) by the DFG.
+Joined the Department of Media and Communication at LMU Munich.
 
