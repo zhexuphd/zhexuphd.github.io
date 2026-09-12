@@ -10,10 +10,10 @@ nav_order: 4
 ## Research Outputs
 
 **[bertopic4news](https://github.com/yuysky/bertopic4news)**  
-A BERTopic framework for large-scale news analysis, incorporating entropy-based filtering and maximal marginal relevance to improve topic quality and diversity.
+A BERTopic-based toolkit for large-scale news analysis, incorporating entropy-based filtering and maximal marginal relevance to improve topic quality and diversity.
 
 **VisFrameCluster**  
-An inductive visual framing framework combining multimodal large language models, semantic embeddings, and clustering with human-in-the-loop validation. *Forthcoming.*
+A multimodal pipeline for inductive visual framing analysis, combining large language models, semantic embeddings, and clustering with human-in-the-loop validation. *Forthcoming.*
 
 ### Current & Former Members
 
