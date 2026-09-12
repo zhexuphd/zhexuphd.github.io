@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-code",
-          title: "code",
+        },{id: "nav-resources",
+          title: "resources",
           description: "open-source code and software developed by my team to support computational social science research",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/code/";
+            window.location.href = "/resources/";
           },
         },{id: "nav-teaching",
           title: "teaching",
