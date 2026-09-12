@@ -7,8 +7,24 @@ nav: true
 nav_order: 4
 ---
 
-**[bertopic4news](https://github.com/yuysky/bertopic4news)** (with Shuai Wang)  
-A BERTopic framework for news analysis, using entropy and maximal marginal relevance to improve topic quality and diversity.
+## Research Team
 
-**VisFrameCluster** (with Shuai Wang)  
-An inductive visual framing framework using MLLMs, semantic embedding, and clustering with human-in-the-loop validation (forthcoming).
+Students and research assistants working with me on computational social science and social data science.
+
+### Current & Former Members
+
+**Michela Cimarelli**  
+Munich Center for Mathematical Philosophy, LMU Munich, Germany  
+*Research Assistant, 2024–2025*
+
+**Shuai Wang**  
+Department of Statistics, LMU Munich, Germany  
+*Research Assistant, 2024–2025*
+
+## Research Outputs
+
+**[bertopic4news](https://github.com/yuysky/bertopic4news)**  
+A BERTopic framework for large-scale news analysis, incorporating entropy-based filtering and maximal marginal relevance to improve topic quality and diversity.
+
+**VisFrameCluster**  
+An inductive visual framing framework combining multimodal large language models, semantic embeddings, and clustering with human-in-the-loop validation. *Forthcoming.*
