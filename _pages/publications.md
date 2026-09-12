@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-## The Politics of Humanitarian Journalism across Media Systems
+## Humanitarian Journalistic Practice across Media Systems
 
 <div class="publications">
 {% bibliography --query @*[keywords~=politics] %}
