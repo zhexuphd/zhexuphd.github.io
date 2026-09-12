@@ -19,8 +19,8 @@ An inductive visual framing framework combining multimodal large language models
 
 **Michela Cimarelli**  
 Munich Center for Mathematical Philosophy, LMU Munich, Germany  
-*Research Assistant, 2024–2025*
+*Research Assistant, 2025–2026*
 
 **Shuai Wang**  
 Department of Statistics, LMU Munich, Germany  
-*Research Assistant, 2024–2025*
+*Research Assistant, 2025–2026*
