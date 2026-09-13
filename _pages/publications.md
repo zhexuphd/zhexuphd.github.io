@@ -11,14 +11,16 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-## Humanitarian News across Countries and Media Systems
+My research examines how emerging technologies and political contexts shape the mediation of humanitarian issues and public responses. Using natural language processing, computational social science, and multimodal methods, I study how news media, platforms, and political actors shape information environments around humanitarian crises.
+
+## Selected Peer-Reviewed Articles
 
 <div class="publications">
-{% bibliography --query @*[keywords~=politics] %}
+{% bibliography --query @*[selected=true][keywords~=published] %}
 </div>
 
-## Humanitarianism in Algorithmically and Technologically Mediated Information Environments
+## Selected Working Papers
 
 <div class="publications">
-{% bibliography --query @*[keywords~=platformization] %}
+{% bibliography --query @*[selected=true][keywords~=working] %}
 </div>
