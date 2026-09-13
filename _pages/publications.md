@@ -16,11 +16,11 @@ My research examines how emerging technologies and political contexts shape the 
 ## Selected Peer-Reviewed Articles
 
 <div class="publications">
-{% bibliography --query @*[selected=true][keywords~=published] %}
+{% bibliography --query @*[keywords~=published] %}
 </div>
 
 ## Selected Working Papers
 
 <div class="publications">
-{% bibliography --query @*[selected=true][keywords~=working] %}
+{% bibliography --query @*[keywords~=working] %}
 </div>
