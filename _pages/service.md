@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+## Conference Organization
+
+<ul class="service-list">
+  <li><a href="https://soe.sjtu.edu.cn/En/Show/781">8th International Conference on World-Class Universities (WCU-8), Shanghai Jiao Tong University, Shanghai, China, 15–17 October 2019</a></li>
+</ul>
+
 ## Grant, Report & Conference Review
 
 <ul class="service-list">
@@ -34,10 +40,4 @@ nav_order: 6
     <li><a href="https://journals.sagepub.com/home/ECS">European Journal of Cultural Studies</a> (SAGE)</li>
     <li><a href="https://www.frontiersin.org/journals/communication">Frontiers in Communication</a> (Frontiers)</li>
     <li><a href="https://www.tandfonline.com/journals/udbh20">Deviant Behavior</a> (Taylor & Francis)</li>
-</ul>
-
-## Conference Organization
-
-<ul class="service-list">
-  <li><a href="https://soe.sjtu.edu.cn/En/Show/781">8th International Conference on World-Class Universities (WCU-8), Shanghai Jiao Tong University, Shanghai, China, 15–17 October 2019</a></li>
 </ul>
