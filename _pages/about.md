@@ -12,7 +12,7 @@ _styles: |
 
 profile:
   align: right
-  image: bbc3.jpg
+  image: web.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
 
