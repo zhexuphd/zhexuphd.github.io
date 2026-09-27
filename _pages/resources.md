@@ -9,11 +9,44 @@ nav_order: 4
 
 ## Outputs
 
-**[bertopic4news](https://github.com/yuysky/bertopic4news)**  
-A BERTopic-based toolkit for large-scale news analysis, incorporating entropy-based filtering and maximal marginal relevance to improve topic quality and diversity.
+<div style="display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 50px;">
 
-**VisFrameCluster**  
-A multimodal pipeline for inductive visual framing analysis, combining large language models, semantic embeddings, and clustering with human-in-the-loop validation. *Forthcoming.*
+  <!-- BERTopic4News -->
+  <div style="flex: 1 1 280px; max-width: 320px;">
+    <img src="{{ '/assets/img/bertanalysis.png' | relative_url }}"
+         alt="BERTopic4News"
+         style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px;">
+
+    <h3 style="margin-top: 15px; margin-bottom: 8px;">
+      <a href="https://github.com/yuysky/bertopic4news">bertopic4news</a>
+    </h3>
+
+    <p style="font-size: 0.9rem;">
+      A BERTopic-based toolkit for large-scale news analysis, incorporating
+      entropy-based filtering and maximal marginal relevance to improve
+      topic quality and diversity.
+    </p>
+  </div>
+
+
+  <!-- VisFrameCluster -->
+  <div style="flex: 1 1 280px; max-width: 320px;">
+    <img src="{{ '/assets/img/visframecluster.png' | relative_url }}"
+         alt="VisFrameCluster"
+         style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px;">
+
+    <h3 style="margin-top: 15px; margin-bottom: 8px;">
+      VisFrameCluster
+    </h3>
+
+    <p style="font-size: 0.9rem;">
+      A multimodal pipeline for inductive visual framing analysis, combining
+      large language models, semantic embeddings, and clustering with
+      human-in-the-loop validation. <em>Forthcoming.</em>
+    </p>
+  </div>
+
+</div>
 
 ### Current & Former Research Assistants and Collaborators
 
