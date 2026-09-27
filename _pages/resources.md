@@ -15,7 +15,7 @@ A BERTopic-based toolkit for large-scale news analysis, incorporating entropy-ba
 **VisFrameCluster**  
 A multimodal pipeline for inductive visual framing analysis, combining large language models, semantic embeddings, and clustering with human-in-the-loop validation. *Forthcoming.*
 
-### Current & Former Members
+### Current & Former Research Assistants and Collaborators
 
 **Michela Cimarelli**  
 Munich Center for Mathematical Philosophy, LMU Munich, Germany  
