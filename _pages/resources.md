@@ -37,7 +37,7 @@ nav_order: 4
 
 </div>
 
-### Current & Former Research Assistants and Collaborators
+### Current & former research assistants and collaborators
 
 **Michela Cimarelli**  
 Munich Center for Mathematical Philosophy, LMU Munich, Germany  
