@@ -7,13 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-## Conference Organization
+## Conference organization
 
 <ul class="service-list">
   <li><a href="https://soe.sjtu.edu.cn/En/Show/781">8th International Conference on World-Class Universities (WCU-8), Shanghai Jiao Tong University, Shanghai, China, 15–17 October 2019</a></li>
 </ul>
 
-## Grant, Report & Conference Review
+## Grant, report & conference review
 
 <ul class="service-list">
   <li><a href="https://gacr.cz/en/">Czech Science Foundation (GACR)</a></li>
@@ -23,7 +23,7 @@ nav_order: 6
   <li><a href="https://migrationnetwork.un.org/">United Nations Network on Migration</a></li>
 </ul>
 
-## Editorial Reviewing
+## Editorial reviewing
 
 <ul class="service-list">
     <li><a href="https://journals.sagepub.com/home/nms">New Media & Society</a> (SAGE)</li>
