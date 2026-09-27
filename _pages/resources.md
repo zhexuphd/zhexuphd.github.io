@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## Research Outputs
+## Outputs
 
 **[bertopic4news](https://github.com/yuysky/bertopic4news)**  
 A BERTopic-based toolkit for large-scale news analysis, incorporating entropy-based filtering and maximal marginal relevance to improve topic quality and diversity.
