@@ -9,15 +9,10 @@ nav_order: 4
 
 ## Outputs
 
-<div style="display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 50px;">
+<div style="display: flex; gap: 50px; flex-wrap: wrap; margin-bottom: 50px;">
 
-  <!-- BERTopic4News -->
-  <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="{{ '/assets/img/bertanalysis.png' | relative_url }}"
-         alt="BERTopic4News"
-         style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px;">
-
-    <h3 style="margin-top: 15px; margin-bottom: 8px;">
+  <div style="flex: 1; min-width: 280px; max-width: 420px;">
+    <h3 style="margin-bottom: 10px;">
       <a href="https://github.com/yuysky/bertopic4news">bertopic4news</a>
     </h3>
 
@@ -28,14 +23,8 @@ nav_order: 4
     </p>
   </div>
 
-
-  <!-- VisFrameCluster -->
-  <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="{{ '/assets/img/visframecluster.png' | relative_url }}"
-         alt="VisFrameCluster"
-         style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px;">
-
-    <h3 style="margin-top: 15px; margin-bottom: 8px;">
+  <div style="flex: 1; min-width: 280px; max-width: 420px;">
+    <h3 style="margin-bottom: 10px;">
       VisFrameCluster
     </h3>
 
