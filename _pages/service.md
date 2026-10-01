@@ -13,19 +13,18 @@ nav_order: 6
   <li><a href="https://soe.sjtu.edu.cn/En/Show/781">8th International Conference on World-Class Universities (WCU-8), Shanghai Jiao Tong University, Shanghai, China, 15–17 October 2019</a></li>
 </ul>
 
-## Grant, report & conference review
+## Selected Grant, report & conference review
 
 <ul class="service-list">
   <li><a href="https://gacr.cz/en/">Czech Science Foundation (GACR)</a></li>
   <li><a href="https://ecrea.eu/">European Communication Research and Education Association (ECREA)</a></li>
   <li><a href="https://iamcr.org/">International Association for Media and Communication Research (IAMCR)</a></li>
-  <li><a href="https://www.icahdq.org">International Communication Association (ICA)</a></li>
-  <li><a href="https://migrationnetwork.un.org/">United Nations Network on Migration</a></li>
 </ul>
 
-## Editorial reviewing
+## Selected journal peer review
 
 <ul class="service-list">
+     <li><a href="https://www.tandfonline.com/journals/rdij20">Digital Journalism</a> (SAGE)</li>
     <li><a href="https://journals.sagepub.com/home/nms">New Media & Society</a> (SAGE)</li>
     <li><a href="https://www.nature.com/palcomms/">Humanities and Social Sciences Communications</a> (Springer Nature)</li>
     <li><a href="https://www.sciencedirect.com/journal/social-science-and-medicine">Social Science & Medicine</a> (Elsevier)</li>
@@ -35,9 +34,6 @@ nav_order: 6
     <li><a href="https://journals.sagepub.com/home/mwc">Media, War & Conflict</a> (SAGE)</li>
     <li><a href="https://www.tandfonline.com/journals/rjop20">Journalism Practice</a> (Taylor & Francis)</li>
     <li><a href="https://www.sciencedirect.com/journal/acta-psychologica">Acta Psychologica</a> (Elsevier)</li>
-    <li><a href="https://www.tandfonline.com/journals/rcqu20">Communication Quarterly</a> (Taylor & Francis)</li>
-    <li><a href="https://www.tandfonline.com/journals/hajc20">Atlantic Journal of Communication</a> (Taylor & Francis)</li>
     <li><a href="https://journals.sagepub.com/home/ECS">European Journal of Cultural Studies</a> (SAGE)</li>
-    <li><a href="https://www.frontiersin.org/journals/communication">Frontiers in Communication</a> (Frontiers)</li>
     <li><a href="https://www.tandfonline.com/journals/udbh20">Deviant Behavior</a> (Taylor & Francis)</li>
 </ul>
