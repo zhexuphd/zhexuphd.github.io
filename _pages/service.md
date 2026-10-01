@@ -24,7 +24,7 @@ nav_order: 6
 ## Selected journal peer review
 
 <ul class="service-list">
-     <li><a href="https://www.tandfonline.com/journals/rdij20">Digital Journalism</a> (SAGE)</li>
+     <li><a href="https://www.tandfonline.com/journals/rdij20">Digital Journalism</a> (Taylor & Francis)</li>
     <li><a href="https://journals.sagepub.com/home/nms">New Media & Society</a> (SAGE)</li>
     <li><a href="https://www.nature.com/palcomms/">Humanities and Social Sciences Communications</a> (Springer Nature)</li>
     <li><a href="https://www.sciencedirect.com/journal/social-science-and-medicine">Social Science & Medicine</a> (Elsevier)</li>
