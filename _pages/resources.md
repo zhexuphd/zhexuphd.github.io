@@ -28,7 +28,7 @@ nav_order: 4
 <div style="margin-top: 20px;">
 
   <p style="margin-bottom: 14px; font-size: 0.9rem;">
-    <strong>Michela Cimarelli</strong>, <em>Research Assistant, 2025–2026</em>, Munich Center for Mathematical Philosophy, LMU Munich, Germany (Now PhD Student, Department of Philosophy, Logic and Scientific Method, London School of Economics and Political Science)
+    <strong>Michela Cimarelli</strong>, <em>Research Assistant, 2025–2026</em>, Munich Center for Mathematical Philosophy, LMU Munich, Germany (Now PhD Student, Department of Philosophy, Logic and Scientific Method, LSE)
   </p>
 
   <p style="margin-bottom: 14px; font-size: 0.9rem;">
@@ -36,7 +36,7 @@ nav_order: 4
   </p>
 
   <p style="margin-bottom: 14px; font-size: 0.9rem;">
-    <strong>Gaia Guatri</strong>, <em>Research Student, 2025</em>, Department of Media and Communication, LMU Munich, Germany (Now PhD Candidate, Institute of Media and Journalism (IMeG), Università della Svizzera italiana (USI))
+    <strong>Gaia Guatri</strong>, <em>Research Student, 2025</em>, Department of Media and Communication, LMU Munich, Germany (Now PhD Candidate, Institute of Media and Journalism, Università della Svizzera italiana)
   </p>
 
 </div>
