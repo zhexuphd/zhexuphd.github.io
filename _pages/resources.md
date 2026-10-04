@@ -12,11 +12,11 @@ nav_order: 4
 <div style="margin-top: 20px;">
 
   <p style="margin-bottom: 14px; font-size: 0.9rem;">
-    <strong><a href="https://github.com/yuysky/bertopic4news">bertopic4news</a></strong>, A BERTopic-based toolkit for large-scale news analysis, incorporating entropy-based filtering and maximal marginal relevance to improve topic quality and diversity.
+    <strong><a href="https://github.com/yuysky/bertopic4news">bertopic4news</a></strong>, A BERTopic-based toolkit for large-scale news analysis, incorporating entropy-based filtering and maximal marginal relevance to improve topic quality and diversity. Funded by the German Research Foundation (DFG).
   </p>
 
   <p style="margin-bottom: 14px; font-size: 0.9rem;">
-    <strong>VisFrameCluster</strong>, A multimodal pipeline for inductive visual framing analysis, combining large language models, semantic embeddings, and clustering with human-in-the-loop validation, <em>forthcoming</em>, funded by the German Research Foundation (DFG).
+    <strong>VisFrameCluster</strong>, A multimodal pipeline for inductive visual framing analysis, combining large language models, semantic embeddings, and clustering with human-in-the-loop validation. Funded by the German Research Foundation (DFG).
   </p>
 
 </div>
