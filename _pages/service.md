@@ -7,13 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-## Conference organization
+### Conference organization
 
 <ul class="service-list">
   <li><a href="https://soe.sjtu.edu.cn/En/Show/781">8th International Conference on World-Class Universities (WCU-8), Shanghai Jiao Tong University, Shanghai, China, 15–17 October 2019</a></li>
 </ul>
 
-## Selected Grant, report & conference review
+### Selected Grant, report & conference review
 
 <ul class="service-list">
   <li><a href="https://gacr.cz/en/">Czech Science Foundation (GACR)</a></li>
@@ -21,7 +21,7 @@ nav_order: 6
   <li><a href="https://iamcr.org/">International Association for Media and Communication Research (IAMCR)</a></li>
 </ul>
 
-## Selected journal peer review
+### Selected journal peer review
 
 <ul class="service-list">
      <li><a href="https://www.tandfonline.com/journals/rdij20">Digital Journalism</a> (Taylor & Francis)</li>
