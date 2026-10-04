@@ -21,7 +21,7 @@ nav_order: 4
 
 </div>
 
-### Current & Former Research Students and Assistants in My Team
+### Current & former research students and assistants in my team
 
 <div style="margin-top: 20px;">
 
