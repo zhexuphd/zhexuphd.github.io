@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## Outputs
+### Outputs
 
 <div style="margin-top: 20px;">
 
@@ -21,9 +21,7 @@ nav_order: 4
 
 </div>
 
-## Current & Former Research Students and Assistants in My Team
-
-### LMU Munich
+### Current & Former Research Students and Assistants in My Team
 
 <div style="margin-top: 20px;">
 
