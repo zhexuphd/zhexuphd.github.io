@@ -2,7 +2,7 @@
 layout: page
 permalink: /resources/
 title: resources
-description: open-source code and software developed by my team to support computational social science research
+description: open-source code and software developed by my research team
 nav: true
 nav_order: 4
 ---
@@ -37,12 +37,42 @@ nav_order: 4
 
 </div>
 
-### Current & former research assistants and collaborators
+## Current & Former Research Students and Assistants in My Team
 
-**Michela Cimarelli**  
-Munich Center for Mathematical Philosophy, LMU Munich, Germany  
-*Research Assistant, 2025–2026*
+### LMU Munich
 
-**Shuai Wang**  
-Department of Statistics, LMU Munich, Germany  
-*Research Assistant, 2025–2026*
+<div style="margin-top: 25px;">
+
+  <div style="padding: 5px 0 18px 0;">
+    <strong>Michela Cimarelli</strong>
+    <p style="margin: 5px 0; font-size: 0.9rem;">
+      Munich Center for Mathematical Philosophy, LMU Munich, Germany
+      · <em>Research Assistant, 2025–2026</em>
+      · Now PhD Student, Department of Philosophy, Logic and Scientific Method,
+      London School of Economics and Political Science (LSE).
+    </p>
+  </div>
+
+  <hr style="margin: 0 0 18px 0;">
+
+  <div style="padding: 5px 0 18px 0;">
+    <strong>Shuai Wang</strong>
+    <p style="margin: 5px 0; font-size: 0.9rem;">
+      Department of Statistics, LMU Munich, Germany
+      · <em>Research Assistant, 2025–2026</em>
+    </p>
+  </div>
+
+  <hr style="margin: 0 0 18px 0;">
+
+  <div style="padding: 5px 0 18px 0;">
+    <strong>Gaia Guatri</strong>
+    <p style="margin: 5px 0; font-size: 0.9rem;">
+      Department of Media and Communication, LMU Munich, Germany
+      · <em>Research Student, 2025</em>
+      · Now PhD Candidate, Institute of Media and Journalism (IMeG),
+      Università della Svizzera italiana (USI).
+    </p>
+  </div>
+
+</div>
