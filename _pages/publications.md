@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: selected publications only, including peer-reviewed journal articles and working papers
+description: peer-reviewed journal articles and working papers
 nav: true
 nav_order: 2
 ---
@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-### Selected peer-reviewed articles
+### Peer-reviewed journal articles
 
 <div class="publications">
 {% bibliography --query @*[keywords~=published] %}
