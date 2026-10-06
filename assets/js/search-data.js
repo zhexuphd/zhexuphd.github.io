@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "selected publications only, including peer-reviewed journal articles and working papers",
+          description: "peer-reviewed journal articles and working papers",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
