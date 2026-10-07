@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-### Peer-reviewed journal articles
+### Selected peer-reviewed journal articles
 
 <div class="publications">
 {% bibliography --query @*[keywords~=published] %}
