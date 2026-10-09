@@ -11,10 +11,6 @@ nav_order: 4
 
 <div style="margin-top: 20px;">
 
-  <img src="{{ '/assets/img/publication_preview/figure_1.png' | relative_url }}"
-       alt="Research outputs"
-       style="float: left; width: 150px; height: 150px; object-fit: cover; margin: 0 25px 15px 0;">
-
   <p style="margin-top: 0;">
     <strong><a href="https://github.com/yuysky/bertopic4news">bertopic4news</a></strong>,
     A BERTopic-based toolkit for large-scale news analysis, incorporating
@@ -22,7 +18,11 @@ nav_order: 4
     topic quality and diversity.
   </p>
 
-  <p>
+  <img src="{{ '/assets/img/publication_preview/figure_1.png' | relative_url }}"
+       alt="Research outputs"
+       style="float: left; width: 30%; max-width: 200px; height: auto; margin: 5px 25px 15px 0;">
+
+  <p style="margin-top: 0;">
     <strong>VisFrameCluster</strong>,
     A multimodal pipeline for inductive visual framing analysis, combining
     large language models, semantic embeddings, and clustering with
