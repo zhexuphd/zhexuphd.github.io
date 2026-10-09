@@ -12,13 +12,9 @@ nav_order: 4
 <div style="display: flex; gap: 50px; flex-wrap: wrap; margin-bottom: 50px;">
 
   <div style="flex: 1; min-width: 280px; max-width: 420px;">
-    <img src="{{ '/assets/img/bertopic4news.png' | relative_url }}"
-         alt="bertopic4news"
-         style="width: 100%; max-width: 200px; height: auto; object-fit: contain;">
-
-    <p style="margin-top: 15px; margin-bottom: 10px;">
-      <strong><a href="https://github.com/yuysky/bertopic4news">bertopic4news</a></strong>
-    </p>
+    <h3 style="margin-bottom: 10px;">
+      <a href="https://github.com/yuysky/bertopic4news">bertopic4news</a>
+    </h3>
 
     <p>
       A BERTopic-based toolkit for large-scale news analysis, incorporating
@@ -28,13 +24,9 @@ nav_order: 4
   </div>
 
   <div style="flex: 1; min-width: 280px; max-width: 420px;">
-    <img src="{{ '/assets/img/publication_preview/figure_1.png' | relative_url }}"
-         alt="VisFrameCluster"
-         style="width: 100%; max-width: 200px; height: auto; object-fit: contain;">
-
-    <p style="margin-top: 15px; margin-bottom: 10px;">
-      <strong>VisFrameCluster</strong>
-    </p>
+    <h3 style="margin-bottom: 10px;">
+      VisFrameCluster
+    </h3>
 
     <p>
       A multimodal pipeline for inductive visual framing analysis, combining
