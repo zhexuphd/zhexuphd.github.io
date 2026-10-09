@@ -11,7 +11,7 @@ nav_order: 3
 
   <div style="flex:1;">
     <h2 style="margin:0;">
-      Computational Analysis of Humanitarian News (Funded by the German Research Foundation, DFG)
+      The Politics of International Humanitarian News (Funded by DFG)
     </h2>
   </div>
 
@@ -26,7 +26,7 @@ nav_order: 3
 This project draws on a decade-long [corpus](https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search) of over one million humanitarian news articles developed by the University of Edinburgh team, developing and employing natural language processing and network analysis methods to examine journalistic practices across political and media systems in the context of humanitarian crises.
 
 - **Duration:** 09/2024 – 03/2027
-- **Grant Amount:** €221,400
+- **Grant Amount:** €221,430
 - **PI:** Dr. Zhe Xu (Department of Media and Communication, LMU Munich, Germany)
 - **Collaborators:** <br>
   Prof. Dr. Martin Scott (School of Global Development, University of East Anglia, UK)<br>
