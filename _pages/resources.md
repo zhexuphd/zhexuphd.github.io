@@ -9,9 +9,6 @@ nav_order: 4
 
 ## Pipeline
 
-
-## Outputs
-
 <div style="margin-top: 20px;">
 
   <div style="margin-bottom: 30px; display: flow-root;">
