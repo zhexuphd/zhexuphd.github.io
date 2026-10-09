@@ -9,42 +9,45 @@ nav_order: 4
 
 ## Pipeline
 
+
+## Outputs
+
 <div style="margin-top: 20px;">
 
-  <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 30px;">
-    <div style="flex: 0 0 140px;">
-      <img src="{{ '/assets/img/bertopic4news.png' | relative_url }}"
-           alt="bertopic4news"
-           style="width: 140px; height: 140px; object-fit: cover;">
-    </div>
-    <div style="flex: 1; min-width: 0;">
-      <p style="margin-top: 0; margin-bottom: 10px;">
-        <strong><a href="https://github.com/yuysky/bertopic4news">bertopic4news</a></strong>
-      </p>
-      <p>
-        A BERTopic-based toolkit for large-scale news analysis, incorporating
-        entropy-based filtering and maximal marginal relevance to improve
-        topic quality and diversity.
-      </p>
-    </div>
+  <div style="margin-bottom: 30px; display: flow-root;">
+    <img src="{{ '/assets/img/publication_preview/figure_1.png' | relative_url }}"
+         alt="bertopic4news"
+         style="float: left; width: 130px; height: 130px; object-fit: cover; margin: 0 22px 12px 0;">
+
+    <p style="margin-top: 0;">
+      <strong><a href="https://github.com/yuysky/bertopic4news">bertopic4news</a></strong>,
+      A BERTopic-based toolkit for large-scale news analysis, incorporating
+      entropy-based filtering and maximal marginal relevance to improve
+      topic quality and diversity.
+    </p>
+
+    <p>
+      The toolkit supports computational analysis of large-scale news corpora.
+    </p>
   </div>
 
-  <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 30px;">
-    <div style="flex: 0 0 140px;">
-      <img src="{{ '/assets/img/visframecluster.png' | relative_url }}"
-           alt="VisFrameCluster"
-           style="width: 140px; height: 140px; object-fit: cover;">
-    </div>
-    <div style="flex: 1; min-width: 0;">
-      <p style="margin-top: 0; margin-bottom: 10px;">
-        <strong>VisFrameCluster</strong>
-      </p>
-      <p>
-        A multimodal pipeline for inductive visual framing analysis, combining
-        large language models, semantic embeddings, and clustering with
-        human-in-the-loop validation.
-      </p>
-    </div>
+  <div style="margin-bottom: 30px; display: flow-root;">
+    <img src="{{ '/assets/img/visframecluster.png' | relative_url }}"
+         alt="VisFrameCluster"
+         style="float: left; width: 130px; height: 130px; object-fit: cover; margin: 0 22px 12px 0;">
+
+    <p style="margin-top: 0;">
+      <strong>VisFrameCluster</strong>,
+      A multimodal pipeline for inductive visual framing analysis, combining
+      large language models, semantic embeddings, and clustering with
+      human-in-the-loop validation.
+    </p>
+
+    <p>
+      Further documentation and research applications will be added as the
+      project develops.
+    </p>
   </div>
 
 </div>
+
