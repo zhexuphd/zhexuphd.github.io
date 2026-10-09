@@ -29,11 +29,12 @@ This project draws on a decade-long [corpus](https://datashare.ed.ac.uk/collecti
 - **Grant Amount:** €221,430
 - **PI:** Dr. Zhe Xu (Department of Media and Communication, LMU Munich, Germany)
 - **Collaborators:** <br>
-  Prof. Dr. Martin Scott (School of Global Development, University of East Anglia, UK)<br>
-  Prof. Dr. Dani Madrid-Morales (School of Information, Journalism and Communication, University of Sheffield, UK)<br>
-  Prof. Dr. Kate Wright (School of Social and Political Science, University of Edinburgh, UK)<br>
-  Prof. Dr. Yotam Ophir (Department of Communication, University at Buffalo, US)<br>
-  Prof. Dr. Liane Rothenberger (Institute of Communication Science, Otto-Friedrich-Universität Bamberg, Germany)
+  Prof. Dr. Martin Scott, School of Global Development, University of East Anglia, UK<br>
+  Prof. Dr. Yotam Ophir, Department of Communication, University at Buffalo, US<br>
+  Prof. Dr. Dani Madrid-Morales, School of Information, Journalism and Communication, University of Sheffield, UK<br>
+  Prof. Dr. Kate Wright, School of Social and Political Science, University of Edinburgh, UK<br>
+  Prof. Dr. Liane Rothenberger, Institute of Communication Science, Otto-Friedrich-Universität Bamberg, Germany
 - **Research Assistants:** <br>
-  Michela Cimarelli (Munich Center for Mathematical Philosophy, LMU Munich, Germany)<br>
-  Shuai Wang (Department of Statistics, LMU Munich, Germany)
+  Michela Cimarelli, Munich Center for Mathematical Philosophy, LMU Munich, Germany (Now PhD Student, Department of Philosophy, Logic and Scientific Method, LSE, UK)<br>
+  Shuai Wang, Department of Statistics, LMU Munich, Germany<br>
+  Gaia Guatri, Department of Media and Communication, LMU Munich, Germany (Now PhD Candidate, Institute of Media and Journalism, Università della Svizzera italiana, Switzerland)
