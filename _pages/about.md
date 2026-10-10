@@ -1,4 +1,3 @@
-
 ---
 layout: about
 title: about
@@ -32,7 +31,6 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-
 ---
 
 I am a [research associate](https://www.sw.lmu.de/ifkw/en/department/people-contacts-and-organization/people-at-the-ifkw/contact-page/zhe-xu-b7d6b0a9.html) and [Walter Benjamin fellow](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [LMU Munich](https://www.lmu.de/en/), affiliated with the chairs of [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/), where I serve as PI of a [German Research Foundation (DFG)](https://www.dfg.de/) research project. I also serve as a [research fellow](https://ptml.sjmc.wisc.edu/staff/xu-zhe/) at the [Public Tech Media Lab](https://ptml.sjmc.wisc.edu/) at the [University of Wisconsin–Madison](https://www.wisc.edu/).
