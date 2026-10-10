@@ -6,20 +6,17 @@ subtitle:
 
 _styles: |
   .profile img {
-    width: 180px;
-    height: 180px;
+    width: 280px;
     max-width: 100%;
-    object-fit: cover;
-    border-radius: 50%;
   }
 
 profile:
   align: right
   image: web.JPG
-  image_circular: true
+  image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: true # includes a list of papers marked as "selected"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
