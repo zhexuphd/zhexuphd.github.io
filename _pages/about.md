@@ -6,7 +6,7 @@ subtitle:
 
 _styles: |
   .profile img {
-    width: 280px;
+    width: 180px;
     max-width: 100%;
   }
 
