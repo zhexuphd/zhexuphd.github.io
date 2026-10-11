@@ -23,19 +23,24 @@ nav_order: 3
 
 </div>
 
-This project draws on a decade-long [corpus](https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search) of over one million humanitarian news articles developed by the University of Edinburgh team, developing and employing natural language processing and network analysis methods to examine journalistic practices across political and media systems in the context of humanitarian crises.
+This project draws on a decade-long [corpus](https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search) of over one million humanitarian news articles developed by the University of Edinburgh team, using natural language processing and network analysis to examine journalistic practices across political and media systems in the context of humanitarian crises.
 
-- **Duration:** 09/2024 – 03/2027
-- **Grant Amount:** €221,430
-- **PI:** **Dr. Zhe Xu** (Department of Media and Communication, LMU Munich, Germany)
-- **Collaborators:** <br>
-  **Prof. Dr. Martin Scott**, School of Global Development, University of East Anglia, UK<br>
-  **Prof. Dr. Yotam Ophir**, Department of Communication, University at Buffalo, US<br>
-  **Prof. Dr. Dani Madrid-Morales**, School of Information, Journalism and Communication, University of Sheffield, UK<br>
-  **Prof. Dr. Kate Wright**, School of Social and Political Science, University of Edinburgh, UK<br>
-  **Prof. Dr. Liane Rothenberger**, Institute of Communication Science, Otto-Friedrich-Universität Bamberg, Germany
-- **Research Assistants:** <br>
-  **Michela Cimarelli**, Munich Center for Mathematical Philosophy, LMU Munich, Germany (Now PhD Student, Department of Philosophy, Logic and Scientific Method, LSE, UK)<br>
-  **Shuai Wang**, Department of Statistics, LMU Munich, Germany<br>
-  **Gaia Guatri**, Department of Media and Communication, LMU Munich, Germany (Now PhD Candidate, Institute of Media and Journalism, Università della Svizzera italiana, Switzerland)
-  
+- **Duration:** September 2024 – March 2027
+- **Grant:** €221,430
+- **Principal Investigator:** Zhe Xu, Department of Media and Communication, LMU Munich, Germany
+
+**Collaborators**
+
+Martin Scott — School of Global Development, University of East Anglia, UK  
+Yotam Ophir — Department of Communication, University at Buffalo, US  
+Dani Madrid-Morales — School of Information, Journalism and Communication, University of Sheffield, UK  
+Kate Wright — School of Social and Political Science, University of Edinburgh, UK  
+Liane Rothenberger — Institute of Communication Science, Otto-Friedrich-Universität Bamberg, Germany
+
+**Research Assistants**
+
+Michela Cimarelli — Research Assistant, 2025–2026, Munich Center for Mathematical Philosophy, LMU Munich, Germany (now PhD Student at the London School of Economics and Political Science)
+
+Shuai Wang — Research Assistant, 2025–2026, Department of Statistics, LMU Munich, Germany
+
+Gaia Guatri — Research Student, 2025, Department of Media and Communication, LMU Munich, Germany (now PhD Candidate at the Institute of Media and Journalism, Università della Svizzera italiana, Switzerland)
