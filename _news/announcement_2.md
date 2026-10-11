@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Awarded a €221,400 Walter Benjamin Grant by the DFG.
+Awarded a €221,430 Walter Benjamin Grant by the DFG.
 
