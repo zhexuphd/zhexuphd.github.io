@@ -19,8 +19,8 @@ nav_order: 2
 
 ### Selected working papers
 
-<u>Xu, Z.</u>, Wang, S., Ongenaert, D., Cimarelli, M., & Luu, D. (under review). Modeling Visual Framing of Humanitarian Emergencies on Social Media with Multimodal Language Models and Semantic Clustering. *New Media & Society*.
+<u>Xu, Z.</u>, Ongenaert, D., Zhang, M., Cetin, C., Wang, S., Cimarelli, M., & Luu, D. (under review). **Modeling Visual Framing of Humanitarian Emergencies on Social Media with Multimodal Language Models and Semantic Clustering**. *New Media & Society*.
 
-<u>Xu, Z.</u>, Ophir, Y., Du, K., Guatri, G., Madrid-Morales, D., Wright, K., & Wang, S. (under review). Modeling the Framing Network of Refugee Issues in Humanitarian News: A Longitudinal Computational Analysis. *Journalism Studies*.
+<u>Xu, Z.</u>, Ophir, Y., Du, K., Guatri, G., Madrid-Morales, D., Wright, K., & Wang, S. (under review). **Modeling the Framing Network of Refugee Issues in Humanitarian News: A Longitudinal Computational Analysis**. *Journalism Studies*.
 
-<u>Xu, Z.</u> & Rothenberger, L. (working paper). Agenda Diversity and Intermedia Agenda-Setting in the Hybrid Media System During Humanitarian Crises: A Longitudinal Computational Approach.
+<u>Xu, Z.</u> & Rothenberger, L. (working paper). **Agenda Diversity and Intermedia Agenda-Setting in the Hybrid Media System During Humanitarian Crises: A Longitudinal Computational Approach**.
