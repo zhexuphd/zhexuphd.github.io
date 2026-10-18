@@ -19,7 +19,7 @@ nav_order: 2
 
 ### Selected working papers
 
-<u>Xu, Z.</u>, Ongenaert, D., Zhang, M., Cetin, C., Wang, S., Cimarelli, M., & Luu, D. (under review). **Modeling Visual Framing of Humanitarian Emergencies on Social Media with Multimodal Language Models and Semantic Clustering**. *New Media & Society*.
+<u>Xu, Z.</u>, Ongenaert, D., Zhang, M., Cetin, C., Wang, S., Cimarelli, M., & Luu, D. (under review). **Platformizing Refugees: Visual Framing and User Engagement in Humanitarian Organization Communication on Instagram**. *New Media & Society*.
 
 <u>Xu, Z.</u>, Ophir, Y., Du, K., Guatri, G., Madrid-Morales, D., Wright, K., & Wang, S. (under review). **Modeling the Framing Network of Refugee Issues in Humanitarian News: A Longitudinal Computational Analysis**. *Journalism Studies*.
 
