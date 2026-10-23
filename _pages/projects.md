@@ -30,34 +30,34 @@ This project draws on a decade-long [corpus of over one million humanitarian new
 
 - **Duration:** September 2024 – March 2027
 - **Grant amount:** €221,430
-- **Principal Investigator:** Zhe Xu, Department of Media and Communication, LMU Munich, Germany
+- **Principal Investigator:** Dr. Zhe Xu, Department of Media and Communication, LMU Munich, Germany
 
 ### Collaborators
 
 <div style="margin-top: 16px;">
 
   <p style="margin-bottom: 14px;">
-    <strong>Martin Scott</strong><br>
+    <strong>Prof. Dr. Martin Scott</strong><br>
     School of Global Development, University of East Anglia, UK
   </p>
 
   <p style="margin-bottom: 14px;">
-    <strong>Yotam Ophir</strong><br>
+    <strong>Prof. Dr. Yotam Ophir</strong><br>
     Department of Communication, University at Buffalo, US
   </p>
 
   <p style="margin-bottom: 14px;">
-    <strong>Dani Madrid-Morales</strong><br>
+    <strong>Prof. Dr. Dani Madrid-Morales</strong><br>
     School of Information, Journalism and Communication, University of Sheffield, UK
   </p>
 
   <p style="margin-bottom: 14px;">
-    <strong>Kate Wright</strong><br>
+    <strong>Prof. Dr. Kate Wright</strong><br>
     School of Social and Political Science, University of Edinburgh, UK
   </p>
 
   <p style="margin-bottom: 0;">
-    <strong>Liane Rothenberger</strong><br>
+    <strong>Prof. Dr. Liane Rothenberger</strong><br>
     Institute of Communication Science, Otto-Friedrich-Universität Bamberg, Germany
   </p>
 
