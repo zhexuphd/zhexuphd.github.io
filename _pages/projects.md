@@ -11,7 +11,7 @@ nav_order: 3
 
   <div style="flex: 1 1 300px;">
     <h2 style="margin: 0;">
-      The Politics of International Humanitarian News
+      Humanitarian News Across Political and Media Systems
       <span style="font-size: 0.8em; font-weight: normal;">(Funded by DFG)</span>
     </h2>
   </div>
@@ -19,7 +19,7 @@ nav_order: 3
   <div style="flex: 0 1 320px; text-align: center;">
     <img
       src="{{ '/assets/img/ifkwdfg.jpg' | relative_url }}"
-      alt="Overview of the DFG-funded humanitarian news project"
+      alt="Project overview"
       style="width: 100%; max-width: 320px; height: auto;"
     >
   </div>
@@ -68,23 +68,18 @@ This project draws on a decade-long [corpus of over one million humanitarian new
 <div style="margin-top: 16px;">
 
   <p style="margin-bottom: 18px;">
-    <strong>Michela Cimarelli</strong>
-    <span style="font-size: 0.95em;"> — Research Assistant, 2025–2026</span><br>
-    Munich Center for Mathematical Philosophy, LMU Munich, Germany
-    (now a PhD student at the London School of Economics and Political Science)
+    <strong>Michela Cimarelli</strong> — Research Assistant, 2025–2026<br>
+    Munich Center for Mathematical Philosophy, LMU Munich, Germany (now a PhD student at the London School of Economics and Political Science)
   </p>
 
   <p style="margin-bottom: 18px;">
-    <strong>Shuai Wang</strong>
-    <span style="font-size: 0.95em;"> — Research Assistant, 2025–2026</span><br>
-    Department of Statistics, LMU Munich, Germany
+    <strong>Shuai Wang</strong> — Research Assistant, 2025–2026<br>
+    Department of Statistics, LMU Munich, Germany (now a machine learning intern at Bosch)
   </p>
 
   <p style="margin-bottom: 0;">
-    <strong>Gaia Guatri</strong>
-    <span style="font-size: 0.95em;"> — Research Student, 2025</span><br>
-    Department of Media and Communication, LMU Munich, Germany
-    (now a PhD candidate at the Institute of Media and Journalism, Università della Svizzera italiana, Switzerland)
+    <strong>Gaia Guatri</strong> — Research Student, 2025<br>
+    Department of Media and Communication, LMU Munich, Germany (now a PhD candidate at the Institute of Media and Journalism, Università della Svizzera italiana, Switzerland)
   </p>
 
 </div>
