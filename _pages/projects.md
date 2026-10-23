@@ -69,7 +69,7 @@ This project draws on a decade-long [corpus of over one million humanitarian new
 
   <p style="margin-bottom: 18px;">
     <strong>Michela Cimarelli</strong> — Research Assistant, 2025–2026<br>
-    Munich Center for Mathematical Philosophy, LMU Munich, Germany (now a PhD student at the London School of Economics and Political Science)
+    Munich Center for Mathematical Philosophy, LMU Munich, Germany (now a PhD student at the London School of Economics and Political Science, UK)
   </p>
 
   <p style="margin-bottom: 18px;">
