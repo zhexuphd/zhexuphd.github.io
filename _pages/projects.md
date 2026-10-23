@@ -7,40 +7,84 @@ nav: true
 nav_order: 3
 ---
 
-<div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:30px; gap:40px; flex-wrap:wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 28px; gap: 32px; flex-wrap: wrap;">
 
-  <div style="flex:1;">
-    <h2 style="margin:0;">
-      The Politics of International Humanitarian News (Funded by DFG)
+  <div style="flex: 1 1 300px;">
+    <h2 style="margin: 0;">
+      The Politics of International Humanitarian News
+      <span style="font-size: 0.8em; font-weight: normal;">(Funded by DFG)</span>
     </h2>
   </div>
 
-  <div style="flex:0 0 350px; text-align:center;">
-    <img src="{{ '/assets/img/ifkwdfg.jpg' | relative_url }}"
-         alt="Project overview"
-         style="width:350px; max-width:100%;">
+  <div style="flex: 0 1 320px; text-align: center;">
+    <img
+      src="{{ '/assets/img/ifkwdfg.jpg' | relative_url }}"
+      alt="Overview of the DFG-funded humanitarian news project"
+      style="width: 100%; max-width: 320px; height: auto;"
+    >
   </div>
 
 </div>
 
-This project draws on a decade-long [corpus](https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search) of over one million humanitarian news articles developed by the University of Edinburgh team, using natural language processing and network analysis to examine journalistic practices across political and media systems in the context of humanitarian crises.
+This project draws on a decade-long [corpus of over one million humanitarian news articles](https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search) compiled by a research team at the University of Edinburgh. Using natural language processing and network analysis, it examines journalistic practices across political and media systems in the context of humanitarian crises.
 
 - **Duration:** September 2024 – March 2027
-- **Grant:** €221,430
+- **Grant amount:** €221,430
 - **Principal Investigator:** Zhe Xu, Department of Media and Communication, LMU Munich, Germany
 
-**Collaborators**
+### Collaborators
 
-Martin Scott — School of Global Development, University of East Anglia, UK  
-Yotam Ophir — Department of Communication, University at Buffalo, US  
-Dani Madrid-Morales — School of Information, Journalism and Communication, University of Sheffield, UK  
-Kate Wright — School of Social and Political Science, University of Edinburgh, UK  
-Liane Rothenberger — Institute of Communication Science, Otto-Friedrich-Universität Bamberg, Germany
+<div style="margin-top: 16px;">
 
-**Research Assistants**
+  <p style="margin-bottom: 14px;">
+    <strong>Martin Scott</strong><br>
+    School of Global Development, University of East Anglia, UK
+  </p>
 
-Michela Cimarelli — Research Assistant, 2025–2026, Munich Center for Mathematical Philosophy, LMU Munich, Germany (now PhD Student at the London School of Economics and Political Science)
+  <p style="margin-bottom: 14px;">
+    <strong>Yotam Ophir</strong><br>
+    Department of Communication, University at Buffalo, US
+  </p>
 
-Shuai Wang — Research Assistant, 2025–2026, Department of Statistics, LMU Munich, Germany
+  <p style="margin-bottom: 14px;">
+    <strong>Dani Madrid-Morales</strong><br>
+    School of Information, Journalism and Communication, University of Sheffield, UK
+  </p>
 
-Gaia Guatri — Research Student, 2025, Department of Media and Communication, LMU Munich, Germany (now PhD Candidate at the Institute of Media and Journalism, Università della Svizzera italiana, Switzerland)
+  <p style="margin-bottom: 14px;">
+    <strong>Kate Wright</strong><br>
+    School of Social and Political Science, University of Edinburgh, UK
+  </p>
+
+  <p style="margin-bottom: 0;">
+    <strong>Liane Rothenberger</strong><br>
+    Institute of Communication Science, Otto-Friedrich-Universität Bamberg, Germany
+  </p>
+
+</div>
+
+### Research Assistants
+
+<div style="margin-top: 16px;">
+
+  <p style="margin-bottom: 18px;">
+    <strong>Michela Cimarelli</strong>
+    <span style="font-size: 0.95em;"> — Research Assistant, 2025–2026</span><br>
+    Munich Center for Mathematical Philosophy, LMU Munich, Germany
+    (now a PhD student at the London School of Economics and Political Science)
+  </p>
+
+  <p style="margin-bottom: 18px;">
+    <strong>Shuai Wang</strong>
+    <span style="font-size: 0.95em;"> — Research Assistant, 2025–2026</span><br>
+    Department of Statistics, LMU Munich, Germany
+  </p>
+
+  <p style="margin-bottom: 0;">
+    <strong>Gaia Guatri</strong>
+    <span style="font-size: 0.95em;"> — Research Student, 2025</span><br>
+    Department of Media and Communication, LMU Munich, Germany
+    (now a PhD candidate at the Institute of Media and Journalism, Università della Svizzera italiana, Switzerland)
+  </p>
+
+</div>
