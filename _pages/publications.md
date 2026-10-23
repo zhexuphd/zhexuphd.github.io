@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: research
+permalink: /publications/
+title: publications
 description: peer-reviewed journal articles and working papers
 nav: true
 nav_order: 2
