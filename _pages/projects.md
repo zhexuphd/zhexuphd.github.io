@@ -7,79 +7,65 @@ nav: true
 nav_order: 3
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 28px; gap: 32px; flex-wrap: wrap;">
+<style>
+  .proj-head { display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; margin-bottom: 16px; }
+  .proj-head h2 { margin: 0; flex: 1 1 300px; }
+  .proj-head img { width: 100%; max-width: 220px; height: auto; border-radius: 6px; }
+  .proj-meta { display: flex; flex-wrap: wrap; gap: 10px; margin: 16px 0 24px; }
+  .proj-meta div { flex: 1 1 180px; padding: 10px 14px; border: 1px solid var(--global-divider-color); border-radius: 8px; background: var(--global-card-bg-color); }
+  .proj-meta small { display: block; color: var(--global-text-color-light); font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.04em; }
+  .proj-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; margin: 12px 0 24px; }
+  .proj-card { padding: 12px 14px; border: 1px solid var(--global-divider-color); border-radius: 8px; background: var(--global-card-bg-color); line-height: 1.4; }
+  .proj-card strong { display: block; }
+  .proj-card span { display: block; font-size: 0.85em; color: var(--global-text-color-light); }
+  .proj-card .role { color: var(--global-theme-color); font-size: 0.8em; margin-bottom: 2px; }
+</style>
 
-  <div style="flex: 1 1 300px;">
-    <h2 style="margin: 0;">
-      Humanitarian News Across Political and Media Systems
-      <span style="font-size: 0.8em; font-weight: normal;">(Funded by DFG)</span>
-    </h2>
-  </div>
-
-  <div style="flex: 0 1 320px; text-align: center;">
-    <img
-      src="{{ '/assets/img/ifkwdfg.jpg' | relative_url }}"
-      alt="Project overview"
-      style="width: 100%; max-width: 320px; height: auto;"
-    >
-  </div>
-
+<div class="proj-head">
+  <h2>
+    Humanitarian News Across Political and Media Systems
+    <span style="font-size: 0.6em; font-weight: normal;">(Funded by DFG)</span>
+  </h2>
+  <img src="{{ '/assets/img/ifkwdfg.jpg' | relative_url }}" alt="Project overview">
 </div>
 
-This project draws on a decade-long [corpus of over one million humanitarian news articles](https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search) compiled by a research team at the University of Edinburgh. Using natural language processing and network analysis, it examines journalistic practices across political and media systems in the context of humanitarian crises.
+<p>
+  This project draws on a decade-long <a href="https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search">corpus of over one million humanitarian news articles</a> compiled by a research team at the University of Edinburgh. Using natural language processing and network analysis, it examines journalistic practices across political and media systems in the context of humanitarian crises.
+</p>
 
-- **Duration:** September 2024 – March 2027
-- **Grant amount:** €221,430
-- **Principal Investigator:** Dr. Zhe Xu, Department of Media and Communication, LMU Munich, Germany
-
-### Collaborators
-
-<div style="margin-top: 16px;">
-
-  <p style="margin-bottom: 14px;">
-    <strong>Prof. Dr. Martin Scott</strong><br>
-    School of Global Development, University of East Anglia, UK
-  </p>
-
-  <p style="margin-bottom: 14px;">
-    <strong>Prof. Dr. Yotam Ophir</strong><br>
-    Department of Communication, University at Buffalo, US
-  </p>
-
-  <p style="margin-bottom: 14px;">
-    <strong>Prof. Dr. Dani Madrid-Morales</strong><br>
-    School of Information, Journalism and Communication, University of Sheffield, UK
-  </p>
-
-  <p style="margin-bottom: 14px;">
-    <strong>Prof. Dr. Kate Wright</strong><br>
-    School of Social and Political Science, University of Edinburgh, UK
-  </p>
-
-  <p style="margin-bottom: 0;">
-    <strong>Prof. Dr. Liane Rothenberger</strong><br>
-    Institute of Communication Science, Otto-Friedrich-Universität Bamberg, Germany
-  </p>
-
+<div class="proj-meta">
+  <div><small>Duration</small>September 2024 – March 2027</div>
+  <div><small>Grant</small>€221,430</div>
+  <div><small>Principal Investigator</small>Dr. Zhe Xu, LMU Munich</div>
 </div>
 
-### Research Assistants
+<h3>Collaborators</h3>
+<div class="proj-grid">
+  <div class="proj-card"><strong>Prof. Dr. Martin Scott</strong><span>University of East Anglia, UK</span></div>
+  <div class="proj-card"><strong>Prof. Dr. Yotam Ophir</strong><span>University at Buffalo, US</span></div>
+  <div class="proj-card"><strong>Prof. Dr. Dani Madrid-Morales</strong><span>University of Sheffield, UK</span></div>
+  <div class="proj-card"><strong>Prof. Dr. Kate Wright</strong><span>University of Edinburgh, UK</span></div>
+  <div class="proj-card"><strong>Prof. Dr. Liane Rothenberger</strong><span>Otto-Friedrich-Universität Bamberg, Germany</span></div>
+</div>
 
-<div style="margin-top: 16px;">
-
-  <p style="margin-bottom: 18px;">
-    <strong>Michela Cimarelli</strong> — Research Assistant, 2025–2026<br>
-    Munich Center for Mathematical Philosophy, LMU Munich, Germany (now a PhD student at the London School of Economics and Political Science, UK)
-  </p>
-
-  <p style="margin-bottom: 18px;">
-    <strong>Shuai Wang</strong> — Research Assistant, 2025–2026<br>
-    Department of Statistics, LMU Munich, Germany (now a machine learning intern at Bosch)
-  </p>
-
-  <p style="margin-bottom: 0;">
-    <strong>Gaia Guatri</strong> — Research Student, 2025<br>
-    Department of Media and Communication, LMU Munich, Germany (now a PhD candidate at the Institute of Media and Journalism, Università della Svizzera italiana, Switzerland)
-  </p>
-
+<h3>Research Assistants</h3>
+<div class="proj-grid">
+  <div class="proj-card">
+    <div class="role">Research Assistant, 2025–2026</div>
+    <strong>Michela Cimarelli</strong>
+    <span>LMU Munich, Munich Center for Mathematical Philosophy</span>
+    <span>Now PhD student, LSE</span>
+  </div>
+  <div class="proj-card">
+    <div class="role">Research Assistant, 2025–2026</div>
+    <strong>Shuai Wang</strong>
+    <span>LMU Munich, Department of Statistics</span>
+    <span>Now machine learning intern, Bosch</span>
+  </div>
+  <div class="proj-card">
+    <div class="role">Research Student, 2025</div>
+    <strong>Gaia Guatri</strong>
+    <span>LMU Munich, Media and Communication</span>
+    <span>Now PhD candidate, Università della Svizzera italiana</span>
+  </div>
 </div>
