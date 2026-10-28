@@ -23,7 +23,7 @@ nav_order: 3
 
 <div class="proj-head">
   <h2>
-    Humanitarian News Across Political and Media Systems
+    The Politics of Humanitarian News
     <span style="font-size: 0.6em; font-weight: normal;">(Funded by DFG)</span>
   </h2>
   <img src="{{ '/assets/img/ifkwdfg.jpg' | relative_url }}" alt="Project overview">
