@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: teaching is always fun for me
-nav: true
+nav: false
 nav_order: 5
 ---
 
