@@ -65,7 +65,7 @@ nav_order: 3
   <div class="proj-card">
     <div class="role">Research Student, 2025</div>
     <strong>Gaia Guatri</strong>
-    <span>LMU Munich, Media and Communication</span>
+    <span>LMU Munich, Department of Media and Communication</span>
     <span>Now PhD candidate, Università della Svizzera italiana</span>
   </div>
 </div>
