@@ -3,7 +3,7 @@ layout: page
 permalink: /service/
 title: service
 description: doing my best to keep up with academic service duties
-nav: true
+nav: false
 nav_order: 6
 ---
 
