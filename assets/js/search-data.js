@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-resources",
-          title: "resources",
-          description: "open-source code and software developed by my research team",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/resources/";
-          },
         },{id: "nav-中文-chinese",
           title: "中文/Chinese",
           description: "",
