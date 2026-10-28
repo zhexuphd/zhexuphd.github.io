@@ -3,7 +3,7 @@ layout: page
 permalink: /resources/
 title: resources
 description: open-source code and software developed by my research team
-nav: true
+nav: false
 nav_order: 4
 ---
 
