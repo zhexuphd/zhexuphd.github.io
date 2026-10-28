@@ -1,8 +1,5 @@
-"crisis communication":
+"Working Paper":
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"journal":
+"Journal Article":
   color: "#009f36"
