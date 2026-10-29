@@ -15,7 +15,6 @@ nav_order: 3
   .proj-meta li { margin: 2px 0; }
   .proj-list { list-style: none; padding-left: 0; margin: 6px 0 16px; }
   .proj-list li { margin: 3px 0; line-height: 1.45; }
-  .proj-list .note { color: var(--global-text-color-light); font-size: 0.9em; }
   h3.proj-sub { margin: 18px 0 4px; font-size: 1.15rem; }
 </style>
 
@@ -39,16 +38,16 @@ nav_order: 3
 
 <h3 class="proj-sub">Collaborators</h3>
 <ul class="proj-list">
-  <li><strong>Prof. Dr. Martin Scott</strong>, University of East Anglia, UK</li>
-  <li><strong>Prof. Dr. Yotam Ophir</strong>, University at Buffalo, US</li>
-  <li><strong>Prof. Dr. Dani Madrid-Morales</strong>, University of Sheffield, UK</li>
-  <li><strong>Prof. Dr. Kate Wright</strong>, University of Edinburgh, UK</li>
-  <li><strong>Prof. Dr. Liane Rothenberger</strong>, Otto-Friedrich-Universität Bamberg, Germany</li>
+  <li><a href="https://research-portal.uea.ac.uk/en/persons/martin-scott/">Prof. Dr. Martin Scott</a>, University of East Anglia, UK</li>
+  <li><a href="https://ophiryotam.com/">Prof. Dr. Yotam Ophir</a>, University at Buffalo, US</li>
+  <li><a href="https://www.danimadrid.net/">Prof. Dr. Dani Madrid-Morales</a>, University of Sheffield, UK</li>
+  <li><a href="https://www.sps.ed.ac.uk/staff/kate-wright">Prof. Dr. Kate Wright</a>, University of Edinburgh, UK</li>
+  <li><a href="https://www.uni-bamberg.de/kowi/infos-zum-institut/personen/rothenberger-liane/">Prof. Dr. Liane Rothenberger</a>, Otto-Friedrich-Universität Bamberg, Germany</li>
 </ul>
 
 <h3 class="proj-sub">Research Assistants</h3>
 <ul class="proj-list">
-  <li><strong>Michela Cimarelli</strong>, 2025–2026, Munich Center for Mathematical Philosophy, LMU Munich <span class="note">(now PhD student, LSE)</span></li>
-  <li><strong>Shuai Wang</strong>, 2025–2026, Department of Statistics, LMU Munich <span class="note">(now machine learning intern, Bosch)</span></li>
-  <li><strong>Gaia Guatri</strong>, 2025, Department of Media and Communication, LMU Munich <span class="note">(now PhD candidate, Università della Svizzera italiana)</span></li>
+  <li><a href="https://www.lse.ac.uk/people/michela-cimarelli">Michela Cimarelli</a> (2025–2026; Munich Center for Mathematical Philosophy, LMU Munich; now PhD student, LSE)</li>
+  <li>Shuai Wang (2025–2026; Department of Statistics, LMU Munich; now machine learning intern, Bosch)</li>
+  <li><a href="https://search.usi.ch/en/people/d05ec1b23c92209ed0c5361ab2841b33/guatri-gaia">Gaia Guatri</a> (2025; Department of Media and Communication, LMU Munich; now PhD candidate, Università della Svizzera italiana)</li>
 </ul>
