@@ -8,17 +8,15 @@ nav_order: 3
 ---
 
 <style>
-  .proj-head { display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; margin-bottom: 16px; }
+  .proj-head { display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-bottom: 10px; }
   .proj-head h2 { margin: 0; flex: 1 1 300px; }
-  .proj-head img { width: 100%; max-width: 220px; height: auto; border-radius: 6px; }
-  .proj-meta { display: flex; flex-wrap: wrap; gap: 10px; margin: 16px 0 24px; }
-  .proj-meta div { flex: 1 1 180px; padding: 10px 14px; border: 1px solid var(--global-divider-color); border-radius: 8px; background: var(--global-card-bg-color); }
-  .proj-meta small { display: block; color: var(--global-text-color-light); font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.04em; }
-  .proj-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; margin: 12px 0 24px; }
-  .proj-card { padding: 12px 14px; border: 1px solid var(--global-divider-color); border-radius: 8px; background: var(--global-card-bg-color); line-height: 1.4; }
-  .proj-card strong { display: block; }
-  .proj-card span { display: block; font-size: 0.85em; color: var(--global-text-color-light); }
-  .proj-card .role { color: var(--global-theme-color); font-size: 0.8em; margin-bottom: 2px; }
+  .proj-head img { width: 100%; max-width: 200px; height: auto; border-radius: 6px; }
+  .proj-meta { margin: 10px 0 16px; padding-left: 0; list-style: none; }
+  .proj-meta li { margin: 2px 0; }
+  .proj-list { list-style: none; padding-left: 0; margin: 6px 0 16px; }
+  .proj-list li { margin: 3px 0; line-height: 1.45; }
+  .proj-list .note { color: var(--global-text-color-light); font-size: 0.9em; }
+  h3.proj-sub { margin: 18px 0 4px; font-size: 1.15rem; }
 </style>
 
 <div class="proj-head">
@@ -30,42 +28,27 @@ nav_order: 3
 </div>
 
 <p>
-  This project draws on a decade-long <a href="https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search">corpus of over one million humanitarian news articles</a> compiled by a research team at the University of Edinburgh. Using natural language processing and network analysis, it examines journalistic practices across political and media systems in the context of humanitarian crises.
+  This project uses natural language processing, large language models, and network analysis with a decade-long <a href="https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search">corpus of over one million news articles</a> to examine journalistic practices across political and media systems in the context of humanitarian crises.
 </p>
 
-<div class="proj-meta">
-  <div><small>Duration</small>September 2024 – March 2027</div>
-  <div><small>Grant</small>€221,430</div>
-  <div><small>Principal Investigator</small>Dr. Zhe Xu, LMU Munich</div>
-</div>
+<ul class="proj-meta">
+  <li><strong>Duration:</strong> September 2024 – March 2027</li>
+  <li><strong>Grant amount:</strong> €221,430</li>
+  <li><strong>Principal Investigator:</strong> Dr. Zhe Xu, Department of Media and Communication, LMU Munich</li>
+</ul>
 
-<h3>Collaborators</h3>
-<div class="proj-grid">
-  <div class="proj-card"><strong>Prof. Dr. Martin Scott</strong><span>University of East Anglia, UK</span></div>
-  <div class="proj-card"><strong>Prof. Dr. Yotam Ophir</strong><span>University at Buffalo, US</span></div>
-  <div class="proj-card"><strong>Prof. Dr. Dani Madrid-Morales</strong><span>University of Sheffield, UK</span></div>
-  <div class="proj-card"><strong>Prof. Dr. Kate Wright</strong><span>University of Edinburgh, UK</span></div>
-  <div class="proj-card"><strong>Prof. Dr. Liane Rothenberger</strong><span>Otto-Friedrich-Universität Bamberg, Germany</span></div>
-</div>
+<h3 class="proj-sub">Collaborators</h3>
+<ul class="proj-list">
+  <li><strong>Prof. Dr. Martin Scott</strong>, University of East Anglia, UK</li>
+  <li><strong>Prof. Dr. Yotam Ophir</strong>, University at Buffalo, US</li>
+  <li><strong>Prof. Dr. Dani Madrid-Morales</strong>, University of Sheffield, UK</li>
+  <li><strong>Prof. Dr. Kate Wright</strong>, University of Edinburgh, UK</li>
+  <li><strong>Prof. Dr. Liane Rothenberger</strong>, Otto-Friedrich-Universität Bamberg, Germany</li>
+</ul>
 
-<h3>Research Assistants</h3>
-<div class="proj-grid">
-  <div class="proj-card">
-    <div class="role">Research Assistant, 2025–2026</div>
-    <strong>Michela Cimarelli</strong>
-    <span>LMU Munich, Munich Center for Mathematical Philosophy</span>
-    <span>Now PhD student, LSE</span>
-  </div>
-  <div class="proj-card">
-    <div class="role">Research Assistant, 2025–2026</div>
-    <strong>Shuai Wang</strong>
-    <span>LMU Munich, Department of Statistics</span>
-    <span>Now machine learning intern, Bosch</span>
-  </div>
-  <div class="proj-card">
-    <div class="role">Research Student, 2025</div>
-    <strong>Gaia Guatri</strong>
-    <span>LMU Munich, Department of Media and Communication</span>
-    <span>Now PhD candidate, Università della Svizzera italiana</span>
-  </div>
-</div>
+<h3 class="proj-sub">Research Assistants</h3>
+<ul class="proj-list">
+  <li><strong>Michela Cimarelli</strong>, 2025–2026, Munich Center for Mathematical Philosophy, LMU Munich <span class="note">(now PhD student, LSE)</span></li>
+  <li><strong>Shuai Wang</strong>, 2025–2026, Department of Statistics, LMU Munich <span class="note">(now machine learning intern, Bosch)</span></li>
+  <li><strong>Gaia Guatri</strong>, 2025, Department of Media and Communication, LMU Munich <span class="note">(now PhD candidate, Università della Svizzera italiana)</span></li>
+</ul>
