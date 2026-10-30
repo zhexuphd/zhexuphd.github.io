@@ -32,7 +32,7 @@ nav_order: 3
 <ul class="proj-meta">
   <li><strong>Duration:</strong> September 2024 – March 2027</li>
   <li><strong>Grant amount:</strong> €221,430</li>
-  <li><strong>Principal Investigator:</strong> Dr. Zhe Xu, Department of Media and Communication, LMU Munich</li>
+  <li><strong>Principal Investigator:</strong> Dr. Zhe Xu, LMU Munich</li>
 </ul>
 
 <h3 class="proj-sub">Collaborators</h3>
@@ -48,5 +48,5 @@ nav_order: 3
 <ul class="proj-list">
   <li><a href="https://www.lse.ac.uk/people/michela-cimarelli">Michela Cimarelli</a> (2025–2026; Munich Center for Mathematical Philosophy, LMU Munich; now PhD student, LSE)</li>
   <li>Shuai Wang (2025–2026; Department of Statistics, LMU Munich; now machine learning intern, Bosch)</li>
-  <li><a href="https://search.usi.ch/en/people/d05ec1b23c92209ed0c5361ab2841b33/guatri-gaia">Gaia Guatri</a> (2025; Department of Media and Communication, LMU Munich; now PhD candidate, Università della Svizzera italiana)</li>
+  <li><a href="https://search.usi.ch/en/people/d05ec1b23c92209ed0c5361ab2841b33/guatri-gaia">Gaia Guatri</a> (2025; Department of Media and Communication, LMU Munich; now PhD student, Università della Svizzera italiana)</li>
 </ul>
