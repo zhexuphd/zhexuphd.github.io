@@ -1,4 +1,4 @@
----
+<img width="468" height="70" alt="image" src="https://github.com/user-attachments/assets/031d727e-4f49-4a1d-b903-f6fc00beafbb" />---
 layout: about
 title: about
 permalink: /
@@ -18,14 +18,13 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
-working_papers:
-  - title: "Modeling the Framing Network of Refugee Issues in Humanitarian News: A Longitudinal Computational Analysis"
-    authors: "Zhe Xu, Yotam Ophir, Ke Du, Gaia Guatri, Dani Madrid-Morales, Kate Wright, and Shuai Wang"
-    status: "Under Review, 2026"
 
-  - title: "Platformized Victimization? Examining Social Media Engagement through Visual Framing of Refugees in Humanitarian Communication"
-    authors: "Zhe Xu, David Ongenaert, Mengrong Zhang, Canan Cetin, Shuai Wang, Michela Cimarelli, and David Luu"
-    status: "Under Review, 2026"
+working_papers:
+  - title: "Modeling the Framing Network of Refugee Issues in Humanitarian News: A Longitudinal Computational Analysis (with Yotam Ophir, Ke Du, Gaia Guatri, Dani Madrid-Morales, Kate Wright, and Shuai Wang)"
+    status: "Revise and Resubmit, Journalism Studies"
+
+  - title: "Framing refugee crises beyond negativity and victimization? A longitudinal topic model network analysis of international humanitarian reporting (with David Ongenaert, Mengrong Zhang, Canan Cetin, Shuai Wang, Michela Cimarelli, and David Luu)"
+    status: "Under Review, New Media & Society"
 
 social: true # includes social icons at the bottom of the page
 
