@@ -18,14 +18,6 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
-
-working_papers:
-  - title: "Modeling the Framing Network of Refugee Issues in Humanitarian News: A Longitudinal Computational Analysis (with Yotam Ophir, Ke Du, Gaia Guatri, Dani Madrid-Morales, Kate Wright, and Shuai Wang)"
-    status: "Revise and Resubmit, Journalism Studies"
-
-  - title: "Framing refugee crises beyond negativity and victimization? A longitudinal topic model network analysis of international humanitarian reporting (with David Ongenaert, Mengrong Zhang, Canan Cetin, Shuai Wang, Michela Cimarelli, and David Luu)"
-    status: "Under Review, New Media & Society"
-
 social: true # includes social icons at the bottom of the page
 
 announcements:
