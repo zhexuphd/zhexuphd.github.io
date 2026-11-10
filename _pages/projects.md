@@ -26,7 +26,7 @@ nav_order: 3
 </div>
 
 <p>
-  This project uses natural language processing, large language models, and network analysis with a decade-long <a href="https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search">corpus of over one million news articles</a> to examine how news media across political and media systems report humanitarian crises.
+  This project uses natural language processing, large language models, and network analysis with a decade-long <a href="https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search">corpus of over one million news articles</a> to examine how news media across political and media systems report humanitarian issues.
 </p>
 
 <ul class="proj-meta">
