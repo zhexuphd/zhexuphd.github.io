@@ -20,7 +20,7 @@ nav_order: 3
 
 <div class="proj-head">
   <h2>
-    The Politics of Humanitarian News (Funded by DFG)
+    How news media across political and media systems report humanitarian issues? (Funded by DFG)
   </h2>
   <img src="{{ '/assets/img/ifkwdfg.jpg' | relative_url }}" alt="Project overview">
 </div>
