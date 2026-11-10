@@ -18,7 +18,7 @@ nav_order: 3
   h3.proj-sub { margin: 18px 0 4px; font-size: 1.15rem; }
 </style>
 
-<div class="proj-head">
+<div class="proj-head"> 
   <h2>
     How news media across political and media systems report humanitarian issues? (Funded by DFG)
   </h2>
