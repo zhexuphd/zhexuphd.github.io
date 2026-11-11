@@ -11,12 +11,14 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-### Selected peer-reviewed journal articles
+### selected peer-reviewed journal articles
 
 <div class="publications">
 {% bibliography --query @*[keywords~=published] %}
 </div>
 
-### Selected working papers
+### selected working papers
 
-
+<div class="working">
+{% bibliography --query @*[keywords~=working] %}
+</div>
